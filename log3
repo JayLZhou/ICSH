@@ -1,0 +1,699 @@
+Jun 1, 2022, 2:35:06 AM	tmdb	AdvancedType3	179496
+Jun 1, 2022, 3:54:42 AM	tmdb	AdvancedType3	180395
+Jun 1, 2022, 5:16:25 AM	tmdb	AdvancedType3	185392
+Jun 1, 2022, 6:41:16 AM	tmdb	AdvancedType3	192917
+Jun 1, 2022, 8:10:13 AM	tmdb	AdvancedType3	202800
+Jun 1, 2022, 9:43:45 AM	tmdb	AdvancedType3	213945
+Jun 1, 2022, 9:43:45 AM	
+
+Jun 1, 2022, 10:22:09 AM	Sca:1	tmdb	BasicInfComm3Type	2026ms	5
+Jun 1, 2022, 10:22:09 AM	Sca:1	tmdb	AdvancedType3	3480ms	5
+Jun 1, 2022, 11:15:10 AM	Sca:2	tmdb	BasicInfComm3Type	100591ms	5
+Jun 1, 2022, 11:15:10 AM	Sca:2	tmdb	AdvancedType3	6473ms	5
+Jun 1, 2022, 10:21:42 PM	Sca:3	tmdb	BasicInfComm3Type	1557341ms	5
+Jun 1, 2022, 10:21:42 PM	Sca:3	tmdb	AdvancedType3	22172ms	5
+Jun 4, 2022, 8:29:50 PM	Sca:4	tmdb	BasicInfComm3Type	10011478ms	5
+Jun 4, 2022, 8:29:50 PM	Sca:4	tmdb	AdvancedType3	67845ms	5
+Jun 4, 2022, 8:29:50 PM	
+
+Jun 16, 2022, 8:53:25 PM	tmdb	BasicInfComm2Type	56
+Jun 16, 2022, 8:53:25 PM	tmdb	AdvancedType3	12
+Jun 16, 2022, 9:31:47 PM	tmdb	BasicInfComm2Type	2079502
+Jun 16, 2022, 9:31:47 PM	tmdb	AdvancedType3	14277
+Jun 16, 2022, 10:06:41 PM	tmdb	BasicInfComm2Type	2054512
+Jun 16, 2022, 10:06:41 PM	tmdb	AdvancedType3	18339
+Jun 16, 2022, 10:39:39 PM	tmdb	BasicInfComm2Type	1927891
+Jun 16, 2022, 10:39:39 PM	tmdb	AdvancedType3	29607
+Jun 16, 2022, 10:59:33 PM	Sca:4	smallimdb	AdvancedType3	1260552ms	5
+Jun 16, 2022, 10:59:33 PM	
+
+Jun 16, 2022, 11:13:36 PM	tmdb	BasicInfComm2Type	1960850
+Jun 16, 2022, 11:13:36 PM	tmdb	AdvancedType3	54282
+Jun 16, 2022, 11:59:44 PM	Sca:4	DBLPWithWeight	AdvancedType3	371986ms	5
+Jun 16, 2022, 11:59:44 PM	
+
+Jun 17, 2022, 12:40:09 AM	tmdb	BasicInfComm2Type	59923
+Jun 17, 2022, 1:07:26 AM	tmdb	BasicInfComm2Type	55379
+Jun 17, 2022, 1:34:45 AM	tmdb	BasicInfComm2Type	55460
+Jun 17, 2022, 2:01:43 AM	tmdb	BasicInfComm2Type	54602
+Jun 17, 2022, 2:28:39 AM	tmdb	BasicInfComm2Type	54542
+Jun 17, 2022, 2:55:46 AM	tmdb	BasicInfComm2Type	54976
+Jun 17, 2022, 2:55:46 AM	
+
+Jun 17, 2022, 3:41:43 PM	DBLPWithWeight	BasicInfComm2Type	409305
+Jun 17, 2022, 4:23:17 PM	DBLPWithWeight	BasicInfComm2Type	404982
+Jun 17, 2022, 5:03:34 PM	DBLPWithWeight	BasicInfComm2Type	392297
+Jun 17, 2022, 5:45:09 PM	DBLPWithWeight	BasicInfComm2Type	405200
+Jun 17, 2022, 6:25:19 PM	DBLPWithWeight	BasicInfComm2Type	391133
+Jun 17, 2022, 7:05:34 PM	DBLPWithWeight	BasicInfComm2Type	391917
+Jun 17, 2022, 7:05:34 PM	
+
+Jun 18, 2022, 12:16:11 AM	smallimdb	BasicInfComm2Type	205284
+Jun 18, 2022, 12:22:58 AM	
+
+Jun 18, 2022, 12:40:02 AM	smallimdb	BasicInfComm2Type	227647
+Jun 18, 2022, 12:57:28 AM	smallimdb	BasicInfComm2Type	163455
+Jun 18, 2022, 1:13:18 AM	smallimdb	BasicInfComm2Type	147583
+Jun 18, 2022, 1:28:57 AM	smallimdb	BasicInfComm2Type	145900
+Jun 18, 2022, 1:43:49 AM	smallimdb	BasicInfComm2Type	137900
+Jun 18, 2022, 1:43:49 AM	
+
+Jun 18, 2022, 10:45:33 AM	
+
+Jun 18, 2022, 11:09:39 AM	
+
+Jun 18, 2022, 1:08:12 PM	
+
+Jun 18, 2022, 1:39:00 PM	
+
+Jun 18, 2022, 1:43:31 PM	
+
+Jun 18, 2022, 1:44:20 PM	
+
+Jun 18, 2022, 1:45:24 PM	
+
+Jun 18, 2022, 1:46:29 PM	
+
+Jun 18, 2022, 1:47:16 PM	
+
+Jun 18, 2022, 1:47:57 PM	
+
+Jun 21, 2022, 3:08:16 PM	
+
+Jun 21, 2022, 3:30:17 PM	
+
+Jun 21, 2022, 3:36:49 PM	
+
+Jun 21, 2022, 3:49:32 PM	
+
+Jun 21, 2022, 4:36:58 PM	
+
+Jun 21, 2022, 4:39:26 PM	
+
+Jun 21, 2022, 4:41:22 PM	
+
+Jun 21, 2022, 4:42:27 PM	
+
+Jun 21, 2022, 4:49:53 PM	
+
+Jun 21, 2022, 4:51:19 PM	
+
+Jun 21, 2022, 4:52:14 PM	
+
+Jun 21, 2022, 5:12:01 PM	
+
+Jun 21, 2022, 5:15:54 PM	
+
+Jun 21, 2022, 5:16:02 PM	
+
+Jun 21, 2022, 5:20:39 PM	
+
+Jun 21, 2022, 5:24:06 PM	
+
+Jun 21, 2022, 6:45:05 PM	
+
+Jun 21, 2022, 7:01:37 PM	
+
+Jun 24, 2022, 12:11:31 AM	
+
+Jun 24, 2022, 12:13:27 AM	
+
+Jun 24, 2022, 12:22:42 AM	
+
+Jun 24, 2022, 12:23:38 AM	
+
+Jun 24, 2022, 12:24:18 AM	
+
+Jun 24, 2022, 12:25:44 AM	
+
+Jun 24, 2022, 12:26:28 AM	
+
+Jun 24, 2022, 12:35:18 AM	
+
+Jun 24, 2022, 12:37:54 AM	
+
+Jun 26, 2022, 6:58:27 AM	DBPedia community diameter 102.11447	25.00000
+ community path-sim 12.59035	20.65344
+ community density 62795.20700	65601.43332
+ community degree 123219.28272	126622.80074
+Jun 27, 2022, 8:41:48 AM	tmdb community diameter 55.00000	25.73987
+ community path-sim 3.65477	9.27855
+ community density 149519.63405	680690.08473
+ community degree 31274.89829	98265.78843
+Jun 27, 2022, 8:41:48 AM	
+
+Jul 1, 2022, 11:57:44 PM	smallimdb community diameter 58.00000	7.19077
+ community path-sim 0-.03233	1.32583
+ community density 129967.98361	5060341.19198
+ community degree 823.40851	4432.25924
+Jul 1, 2022, 11:57:44 PM	
+
+Jul 1, 2022, 11:58:06 PM	DBPedia community diameter 0.00000	0.00000
+ community path-sim 0.00000	0.00000
+ community density 0.00000	0.00000
+ community degree 0.00000	0.00000
+Jul 1, 2022, 11:58:06 PM	
+
+Jul 2, 2022, 12:55:41 PM	
+
+Jul 2, 2022, 1:31:40 PM	
+
+Jul 2, 2022, 1:53:53 PM	
+
+Jul 2, 2022, 3:19:51 PM	
+
+Jul 3, 2022, 3:19:57 AM	tmdb community diameter 55.00000	25.76139
+ community path-sim 3.65477	9.29638
+ community density 149519.63405	684433.25183
+
+Jul 3, 2022, 3:19:57 AM	
+
+Jul 4, 2022, 2:00:18 AM	smallimdb community diameter 58.00000	7.09241
+ community path-sim 0-.03233	1.33018
+ community density 129967.98361	5085375.33928
+
+Jul 4, 2022, 2:00:18 AM	
+
+
+Sep 15, 2022, 11:24:28 PM	tmdb	queryK: 5
+ The number of communities   33.72000
+The average number of nodes in communities 6.12000
+ The average number of nodes in k-core6012.72000
+The maximum number of nodes in communities 7.84000
+minimum number of nodes in communities 6.00000
+
+Sep 16, 2022, 12:48:21 AM	tmdb	queryK: 7
+ The number of communities   51.12000
+The average number of nodes in communities 8.44000
+ The average number of nodes in k-core6010.24000
+The maximum number of nodes in communities 11.52000
+minimum number of nodes in communities 8.00000
+
+Sep 16, 2022, 2:13:44 AM	tmdb	queryK: 9
+ The number of communities   71.56000
+The average number of nodes in communities 10.76000
+ The average number of nodes in k-core6005.52000
+The maximum number of nodes in communities 14.44000
+minimum number of nodes in communities 10.00000
+
+Sep 16, 2022, 3:43:26 AM	tmdb	queryK: 11
+ The number of communities   93.32000
+The average number of nodes in communities 13.16000
+ The average number of nodes in k-core6001.76000
+The maximum number of nodes in communities 17.60000
+minimum number of nodes in communities 12.00000
+
+Sep 16, 2022, 5:16:55 AM	tmdb	queryK: 13
+ The number of communities   121.25000
+The average number of nodes in communities 15.66667
+ The average number of nodes in k-core6247.54167
+The maximum number of nodes in communities 20.83333
+minimum number of nodes in communities 14.00000
+
+Sep 16, 2022, 6:57:42 AM	tmdb	queryK: 15
+ The number of communities   181.55000
+The average number of nodes in communities 18.75000
+ The average number of nodes in k-core7489.45000
+The maximum number of nodes in communities 27.15000
+minimum number of nodes in communities 16.00000
+
+Sep 16, 2022, 6:57:42 AM	
+
+Sep 16, 2022, 12:03:20 PM	smallimdb	queryK: 5
+ The number of communities   192.50000
+The average number of nodes in communities 6.83333
+ The average number of nodes in k-core75152.00000
+The maximum number of nodes in communities 16.33333
+minimum number of nodes in communities 6.00000
+
+Sep 16, 2022, 4:12:04 PM	smallimdb	queryK: 7
+ The number of communities   258.16667
+The average number of nodes in communities 11.00000
+ The average number of nodes in k-core69446.50000
+The maximum number of nodes in communities 26.00000
+minimum number of nodes in communities 8.00000
+
+Sep 16, 2022, 8:06:48 PM	smallimdb	queryK: 9
+ The number of communities   327.00000
+The average number of nodes in communities 14.00000
+ The average number of nodes in k-core64553.50000
+The maximum number of nodes in communities 31.66667
+minimum number of nodes in communities 10.00000
+
+Sep 17, 2022, 12:31:46 AM	smallimdb	queryK: 11
+ The number of communities   401.16667
+The average number of nodes in communities 17.83333
+ The average number of nodes in k-core60860.16667
+The maximum number of nodes in communities 38.00000
+minimum number of nodes in communities 12.00000
+
+Sep 17, 2022, 5:17:01 AM	smallimdb	queryK: 13
+ The number of communities   460.50000
+The average number of nodes in communities 21.50000
+ The average number of nodes in k-core57833.33333
+The maximum number of nodes in communities 45.83333
+minimum number of nodes in communities 14.00000
+
+Sep 18, 2022, 10:07:42 PM	smallimdb	queryK: 15
+ The number of communities   493.00000
+The average number of nodes in communities 24.33333
+ The average number of nodes in k-core55132.83333
+The maximum number of nodes in communities 55.50000
+minimum number of nodes in communities 16.00000
+
+Sep 18, 2022, 10:07:42 PM	
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	DBPedia	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 18, 2022, 10:19:30 PM	
+
+Sep 20, 2022, 3:52:08 PM	DBLPWithWeight	queryK: 5
+ The number of communities   72.00000
+The average number of nodes in communities 6.00000
+ The average number of nodes in k-core66646.16667
+The maximum number of nodes in communities 7.50000
+minimum number of nodes in communities 6.00000
+
+Sep 20, 2022, 5:49:40 PM	DBLPWithWeight	queryK: 7
+ The number of communities   84.33333
+The average number of nodes in communities 8.16667
+ The average number of nodes in k-core66492.00000
+The maximum number of nodes in communities 16.83333
+minimum number of nodes in communities 8.00000
+
+Sep 20, 2022, 7:53:54 PM	DBLPWithWeight	queryK: 9
+ The number of communities   95.00000
+The average number of nodes in communities 10.33333
+ The average number of nodes in k-core66291.33333
+The maximum number of nodes in communities 16.50000
+minimum number of nodes in communities 10.00000
+
+Sep 20, 2022, 10:05:21 PM	DBLPWithWeight	queryK: 11
+ The number of communities   99.33333
+The average number of nodes in communities 12.66667
+ The average number of nodes in k-core66117.00000
+The maximum number of nodes in communities 23.00000
+minimum number of nodes in communities 12.00000
+
+Sep 21, 2022, 12:26:36 AM	DBLPWithWeight	queryK: 13
+ The number of communities   113.50000
+The average number of nodes in communities 16.00000
+ The average number of nodes in k-core65949.00000
+The maximum number of nodes in communities 27.16667
+minimum number of nodes in communities 14.00000
+
+Sep 21, 2022, 2:52:38 AM	DBLPWithWeight	queryK: 15
+ The number of communities   125.00000
+The average number of nodes in communities 18.83333
+ The average number of nodes in k-core65792.16667
+The maximum number of nodes in communities 31.50000
+minimum number of nodes in communities 16.00000
+
+Sep 21, 2022, 2:52:38 AM	
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	DBPedia	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Sep 21, 2022, 5:09:13 PM	
+
+Sep 21, 2022, 7:13:34 PM	DBPedia	queryK: 5
+ The number of communities   30.15000
+The average number of nodes in communities 6.00000
+ The average number of nodes in k-core7092.90000
+The maximum number of nodes in communities 6.45000
+minimum number of nodes in communities 6.00000
+
+Sep 21, 2022, 9:07:52 PM	DBPedia	queryK: 7
+ The number of communities   33.50000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core7056.40000
+The maximum number of nodes in communities 8.80000
+minimum number of nodes in communities 8.00000
+
+Sep 21, 2022, 10:58:52 PM	DBPedia	queryK: 9
+ The number of communities   34.95000
+The average number of nodes in communities 10.00000
+ The average number of nodes in k-core7016.10000
+The maximum number of nodes in communities 10.70000
+minimum number of nodes in communities 10.00000
+
+Sep 22, 2022, 12:55:47 AM	DBPedia	queryK: 11
+ The number of communities   37.10000
+The average number of nodes in communities 12.05000
+ The average number of nodes in k-core6974.80000
+The maximum number of nodes in communities 13.55000
+minimum number of nodes in communities 12.00000
+
+Sep 22, 2022, 2:58:49 AM	DBPedia	queryK: 13
+ The number of communities   40.05263
+The average number of nodes in communities 14.10526
+ The average number of nodes in k-core7302.21053
+The maximum number of nodes in communities 15.94737
+minimum number of nodes in communities 14.00000
+
+Sep 22, 2022, 5:10:08 AM	DBPedia	queryK: 15
+ The number of communities   41.15789
+The average number of nodes in communities 16.15789
+ The average number of nodes in k-core7276.21053
+The maximum number of nodes in communities 18.00000
+minimum number of nodes in communities 16.00000
+
+Sep 22, 2022, 5:10:08 AM	
+
+Jan 1, 2023, 8:30:56 PM	
+
+Jan 4, 2023, 8:57:11 PM	
+
+Jan 4, 2023, 9:02:35 PM	
+
+Jan 4, 2023, 9:03:16 PM	
+
+Jan 5, 2023, 2:14:09 PM	
+
+Jan 13, 2023, 7:53:05 PM	DBPedia	AdvancedTypeH	755726
+Jan 13, 2023, 10:02:34 PM	DBPedia	AdvancedTypeH	755213
+Jan 14, 2023, 12:07:31 AM	DBPedia	AdvancedTypeH	728124
+Jan 14, 2023, 2:09:45 AM	DBPedia	AdvancedTypeH	711800
+Jan 14, 2023, 4:11:17 AM	DBPedia	AdvancedTypeH	707649
+Jan 14, 2023, 6:11:51 AM	DBPedia	AdvancedTypeH	701703
+Jan 14, 2023, 6:11:51 AM	
+
+Jan 15, 2023, 9:54:42 AM	
+
+Jan 15, 2023, 11:51:23 AM	Sca:1	DBPedia	AdvancedHtype	1587ms	5
+Jan 15, 2023, 11:56:35 AM	Sca:2	DBPedia	AdvancedHtype	18033ms	5
+Jan 15, 2023, 12:12:53 PM	Sca:3	DBPedia	AdvancedHtype	82862ms	5
+Jan 15, 2023, 1:02:24 PM	Sca:4	DBPedia	AdvancedHtype	279781ms	5
+Jan 15, 2023, 1:02:24 PM	
+
+Jan 16, 2023, 1:38:57 AM	Sca:1	DBPedia	AdvancedHtype	983ms	5
+Jan 16, 2023, 1:44:39 AM	Sca:2	DBPedia	AdvancedHtype	20492ms	5
+Jan 16, 2023, 2:01:11 AM	Sca:3	DBPedia	AdvancedHtype	83616ms	5
+Jan 16, 2023, 2:33:24 AM	DBPedia	BasicTypeH	60069
+Jan 16, 2023, 2:44:32 AM	Sca:4	DBPedia	AdvancedHtype	242738ms	5
+Jan 16, 2023, 2:44:32 AM	
+
+Jan 16, 2023, 2:46:36 AM	DBPedia	BasicTypeH	56444
+Jan 16, 2023, 2:56:01 AM	DBPedia	BasicTypeH	35934
+Jan 16, 2023, 3:04:40 AM	DBPedia	BasicTypeH	31392
+Jan 16, 2023, 3:12:51 AM	DBPedia	BasicTypeH	28672
+Jan 16, 2023, 3:21:04 AM	DBPedia	BasicTypeH	28490
+Jan 16, 2023, 3:21:04 AM	
+
+Jan 17, 2023, 12:07:10 AM	DBPedia	AdvancedTypeH	897543	queryK: 5
+Jan 17, 2023, 3:05:12 AM	DBPedia	AdvancedTypeH	1047184	queryK: 7
+Jan 17, 2023, 6:22:32 AM	DBPedia	AdvancedTypeH	1162970	queryK: 9
+Jan 17, 2023, 10:04:57 AM	DBPedia	AdvancedTypeH	1313598	queryK: 11
+Jan 17, 2023, 2:24:28 PM	DBPedia	AdvancedTypeH	1536322	queryK: 13
+Jan 17, 2023, 7:43:00 PM	DBPedia	AdvancedTypeH	1890291	queryK: 15
+Jan 17, 2023, 7:43:00 PM	
+
+Jan 17, 2023, 8:37:45 PM	Sca:1	DBPedia	BasicHtype	1755ms	5
+Jan 17, 2023, 8:37:45 PM	Sca:1	DBPedia	AdvancedType3	1755ms	5
+Jan 17, 2023, 8:51:19 PM	Sca:2	DBPedia	BasicHtype	31791ms	5
+Jan 17, 2023, 8:51:19 PM	Sca:2	DBPedia	AdvancedType3	24232ms	5
+Jan 17, 2023, 10:23:15 PM	Sca:3	DBPedia	BasicHtype	417530ms	5
+Jan 17, 2023, 10:23:15 PM	Sca:3	DBPedia	AdvancedType3	104140ms	5
+Jan 18, 2023, 10:13:52 AM	Sca:4	DBPedia	BasicHtype	3909165ms	5
+Jan 18, 2023, 10:13:52 AM	Sca:4	DBPedia	AdvancedType3	320057ms	5
+Jan 18, 2023, 10:13:52 AM	
+
+Jan 23, 2023, 6:08:05 PM	DBPedia	BasicTypeH	36777254
+Feb 1, 2023, 9:07:31 PM	
+
+Feb 1, 2023, 9:08:26 PM	
+
+Feb 1, 2023, 9:14:33 PM	Sca:1	tmdb	BasicInfComm3Type	1792ms	5
+Feb 1, 2023, 9:14:33 PM	
+
+Feb 2, 2023, 4:26:13 PM	Sca:1	tmdb	BasicInfComm3Type	1656ms	5
+Feb 2, 2023, 4:46:33 PM	Sca:1	tmdb	AdvancedType3	5519ms	5
+Feb 2, 2023, 4:54:47 PM	Sca:2	tmdb	AdvancedType3	8920ms	5
+Feb 2, 2023, 4:54:47 PM	
+
+Feb 2, 2023, 5:02:27 PM	Sca:1	tmdb	AdvancedType3	5384ms	5
+Feb 2, 2023, 5:10:09 PM	Sca:1	tmdb	AdvancedType3	4876ms	5
+Feb 2, 2023, 5:18:32 PM	Sca:2	tmdb	AdvancedType3	9319ms	5
+Feb 2, 2023, 5:18:32 PM	
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	tmdb	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	smallimdb	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBPedia	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 5
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 7
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 9
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 11
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 13
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	DBLPWithWeight	queryK: 15
+ The number of communities   0NaN
+The average number of nodes in communities 0NaN
+ The average number of nodes in k-core0NaN
+The maximum number of nodes in communities 0NaN
+minimum number of nodes in communities 0NaN
+
+Feb 13, 2023, 9:03:22 PM	
+
+Mar 20, 2023, 3:18:04 PM	tmdb community type-1 25.96855	101.89397
+ community type-2 0NaN	0NaN
+ community type-3 0NaN	0NaN
+Mar 20, 2023, 3:19:46 PM	tmdb community type-1 25.96855	101.89397
+ community type-2 0NaN	0NaN
+ community type-3 0NaN	0NaN

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="804" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/expTest.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="5104" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/scalabilityTest3.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="9800" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/CommunityMember2.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="13108" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/CaseStudy.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="4739" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/effencicyComm2.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="874" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/runTest.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="339" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/effencicyCommH.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="13413" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/avgInfValue.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="655" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/exp/effectivenessComm2.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,560 @@
+Jun 4, 2022, 11:05:05 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 39-82-79-745-39leaves: 21263	keys size:21267
+Jun 4, 2022, 11:22:21 PM	DBPedia	39-82-79-745-39	queryK : 5	modify  : 0	allVisted : 2	total:21267
+Jun 4, 2022, 11:49:22 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 38-58-422-721-38leaves: 47193	keys size:77132
+Jun 5, 2022, 12:06:33 AM	DBPedia	38-58-422-721-38	queryK : 5	modify  : 0	allVisted : 477	total:77132
+Jun 5, 2022, 12:21:00 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 107340	keys size:153295
+Jun 5, 2022, 12:33:53 AM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 914	total:153295
+Jun 5, 2022, 12:50:59 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 25713	keys size:32398
+Jun 5, 2022, 1:05:22 AM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 7	total:32398
+Jun 5, 2022, 1:18:53 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 38755	keys size:38986
+Jun 5, 2022, 1:31:03 AM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 116	total:38986
+Jun 5, 2022, 1:43:08 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 18589	keys size:18637
+Jun 5, 2022, 1:54:01 AM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 2	total:18637
+Jun 5, 2022, 2:10:00 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 4292	keys size:32889
+Jun 5, 2022, 2:19:44 AM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 284	total:32889
+Jun 5, 2022, 2:39:10 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 238	keys size:34402
+Jun 5, 2022, 2:47:11 AM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 46	total:34402
+Jun 5, 2022, 2:53:04 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 12657	keys size:12721
+Jun 5, 2022, 2:58:21 AM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 2	total:12721
+Jun 5, 2022, 3:05:28 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 33585	keys size:34263
+Jun 5, 2022, 3:11:14 AM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 7	total:34263
+Jun 5, 2022, 3:15:27 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 31390	keys size:33301
+Jun 5, 2022, 3:19:13 AM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 46	total:33301
+Jun 5, 2022, 3:23:37 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 10755	keys size:10757
+Jun 5, 2022, 3:27:24 AM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:10757
+Jun 5, 2022, 3:35:19 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 31	keys size:19594
+Jun 5, 2022, 3:39:07 AM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 5	total:19594
+Jun 5, 2022, 3:42:34 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 17052	keys size:17211
+Jun 5, 2022, 3:45:40 AM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 81	total:17211
+Jun 5, 2022, 3:49:53 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 1224	keys size:10806
+Jun 5, 2022, 3:55:11 AM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 7	total:10806
+Jun 5, 2022, 3:59:11 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 1249	keys size:12299
+Jun 5, 2022, 4:04:53 AM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 26	total:12299
+Jun 5, 2022, 4:11:43 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 2	keys size:19292
+Jun 5, 2022, 4:14:57 AM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 14	total:19292
+Jun 5, 2022, 4:17:36 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 9024	keys size:9050
+Jun 5, 2022, 4:19:51 AM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 13	total:9050
+Jun 5, 2022, 4:24:56 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 6279	keys size:20247
+Jun 5, 2022, 4:28:59 AM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 12	total:20247
+Jun 5, 2022, 4:38:23 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 25	keys size:24623
+Jun 5, 2022, 4:41:57 AM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 14	total:24623
+Jun 5, 2022, 4:45:27 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 58093	keys size:60387
+Jun 5, 2022, 4:48:04 AM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 219	total:60387
+Jun 5, 2022, 4:53:31 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 0	keys size:15811
+Jun 5, 2022, 4:55:52 AM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 7	total:15811
+Jun 5, 2022, 4:59:08 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 27437	keys size:29113
+Jun 5, 2022, 5:01:59 AM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 6	total:29113
+Jun 5, 2022, 2:06:22 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 17733	keys size:17786
+Jun 5, 2022, 2:08:58 PM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 27	total:17786
+Jun 5, 2022, 2:11:46 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 2-2-13-665-2leaves: 17681	keys size:17733
+Jun 5, 2022, 2:53:21 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-178-0-841-189leaves: 25968	keys size:25970
+Jun 5, 2022, 8:26:32 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-178-0-841-189leaves: 25968	keys size:25970
+Jun 5, 2022, 9:10:41 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-178-0-841-189leaves: 25968	keys size:25970
+Jun 6, 2022, 10:16:59 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 38755	keys size:38986
+Jun 6, 2022, 10:28:48 AM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 116	total:38986
+Jun 6, 2022, 10:30:47 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 122-7-13-670-122leaves: 12296	keys size:13158
+Jun 6, 2022, 10:32:18 AM	DBPedia	122-7-13-670-122	queryK : 5	modify  : 0	allVisted : 43	total:13158
+Jun 6, 2022, 10:46:32 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 107340	keys size:153295
+Jun 6, 2022, 11:00:16 AM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 914	total:153295
+Jun 6, 2022, 11:15:38 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 25713	keys size:32398
+Jun 6, 2022, 11:29:31 AM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 7	total:32398
+Jun 6, 2022, 11:41:13 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 18589	keys size:18637
+Jun 6, 2022, 11:51:45 AM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 2	total:18637
+Jun 6, 2022, 12:08:10 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 4292	keys size:32889
+Jun 6, 2022, 12:17:30 PM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 284	total:32889
+Jun 6, 2022, 12:36:16 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 238	keys size:34402
+Jun 6, 2022, 12:43:36 PM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 46	total:34402
+Jun 6, 2022, 12:48:55 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 12657	keys size:12721
+Jun 6, 2022, 12:53:37 PM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 2	total:12721
+Jun 6, 2022, 12:59:43 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 33585	keys size:34263
+Jun 6, 2022, 1:05:01 PM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 7	total:34263
+Jun 6, 2022, 1:09:05 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 31390	keys size:33301
+Jun 6, 2022, 1:12:37 PM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 46	total:33301
+Jun 6, 2022, 1:16:53 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 10755	keys size:10757
+Jun 6, 2022, 1:20:28 PM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:10757
+Jun 6, 2022, 1:28:35 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 31	keys size:19594
+Jun 6, 2022, 1:32:11 PM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 5	total:19594
+Jun 6, 2022, 1:35:26 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 17052	keys size:17211
+Jun 6, 2022, 1:38:21 PM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 81	total:17211
+Jun 6, 2022, 1:42:38 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 1224	keys size:10806
+Jun 6, 2022, 1:47:36 PM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 7	total:10806
+Jun 6, 2022, 1:51:24 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 1249	keys size:12299
+Jun 6, 2022, 1:56:32 PM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 26	total:12299
+Jun 6, 2022, 2:03:21 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 2	keys size:19292
+Jun 6, 2022, 2:06:25 PM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 14	total:19292
+Jun 6, 2022, 2:08:54 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 9024	keys size:9050
+Jun 6, 2022, 2:11:05 PM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 13	total:9050
+Jun 6, 2022, 2:15:59 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 6279	keys size:20247
+Jun 6, 2022, 2:19:49 PM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 12	total:20247
+Jun 6, 2022, 2:29:05 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 25	keys size:24623
+Jun 6, 2022, 2:32:18 PM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 14	total:24623
+Jun 6, 2022, 2:36:04 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 58093	keys size:60387
+Jun 6, 2022, 2:38:53 PM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 219	total:60387
+Jun 6, 2022, 2:44:04 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 0	keys size:15811
+Jun 6, 2022, 2:46:16 PM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 7	total:15811
+Jun 6, 2022, 2:49:22 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 27437	keys size:29113
+Jun 6, 2022, 2:52:01 PM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 6	total:29113
+Jun 6, 2022, 2:54:54 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 227-2-13-665-227leaves: 15803	keys size:17250
+Jun 6, 2022, 2:57:27 PM	DBPedia	227-2-13-665-227	queryK : 5	modify  : 0	allVisted : 64	total:17250
+Jun 6, 2022, 2:59:43 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-58-0-721-55leaves: 10871	keys size:13851
+Jun 6, 2022, 3:01:44 PM	DBPedia	55-58-0-721-55	queryK : 5	modify  : 0	allVisted : 13	total:13851
+Jun 6, 2022, 3:04:17 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 17733	keys size:17786
+Jun 6, 2022, 3:06:22 PM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 27	total:17786
+Jun 6, 2022, 3:19:52 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 55-2-13-665-55leaves: 38538	keys size:38751
+Jun 6, 2022, 3:31:57 PM	DBPedia	55-2-13-665-55	queryK : 7	modify  : 0	allVisted : 110	total:38751
+Jun 6, 2022, 3:33:53 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 122-7-13-670-122leaves: 12045	keys size:13077
+Jun 6, 2022, 3:35:33 PM	DBPedia	122-7-13-670-122	queryK : 7	modify  : 0	allVisted : 41	total:13077
+Jun 6, 2022, 3:49:56 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 166-81-38-744-166leaves: 96970	keys size:151944
+Jun 6, 2022, 4:04:11 PM	DBPedia	166-81-38-744-166	queryK : 7	modify  : 0	allVisted : 822	total:151944
+Jun 6, 2022, 4:20:47 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 144-185-422-848-144leaves: 22690	keys size:32331
+Jun 6, 2022, 4:35:30 PM	DBPedia	144-185-422-848-144	queryK : 7	modify  : 0	allVisted : 7	total:32331
+Jun 6, 2022, 4:46:58 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 47-84-0-747-47leaves: 18578	keys size:18631
+Jun 6, 2022, 4:57:39 PM	DBPedia	47-84-0-747-47	queryK : 7	modify  : 0	allVisted : 2	total:18631
+Jun 6, 2022, 5:13:33 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 3-10-70-673-3leaves: 3922	keys size:32016
+Jun 6, 2022, 5:24:03 PM	DBPedia	3-10-70-673-3	queryK : 7	modify  : 0	allVisted : 213	total:32016
+Jun 6, 2022, 5:42:07 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 8-31-0-694-8leaves: 199	keys size:33812
+Jun 6, 2022, 5:52:27 PM	DBPedia	8-31-0-694-8	queryK : 7	modify  : 0	allVisted : 31	total:33812
+Jun 6, 2022, 5:57:42 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 47-83-422-746-47leaves: 12629	keys size:12717
+Jun 6, 2022, 6:02:26 PM	DBPedia	47-83-422-746-47	queryK : 7	modify  : 0	allVisted : 2	total:12717
+Jun 6, 2022, 6:09:02 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 59-73-96-736-59leaves: 32986	keys size:34082
+Jun 6, 2022, 6:14:25 PM	DBPedia	59-73-96-736-59	queryK : 7	modify  : 0	allVisted : 8	total:34082
+Jun 6, 2022, 6:18:30 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 55-52-422-715-55leaves: 30715	keys size:33188
+Jun 6, 2022, 6:22:04 PM	DBPedia	55-52-422-715-55	queryK : 7	modify  : 0	allVisted : 41	total:33188
+Jun 6, 2022, 6:26:29 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 47-82-422-745-47leaves: 10752	keys size:10754
+Jun 6, 2022, 6:30:10 PM	DBPedia	47-82-422-745-47	queryK : 7	modify  : 0	allVisted : 1	total:10754
+Jun 6, 2022, 6:38:04 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 54-178-422-841-54leaves: 29	keys size:19545
+Jun 6, 2022, 6:41:42 PM	DBPedia	54-178-422-841-54	queryK : 7	modify  : 0	allVisted : 5	total:19545
+Jun 6, 2022, 6:45:02 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 30-2-13-665-30leaves: 16909	keys size:17052
+Jun 6, 2022, 6:48:00 PM	DBPedia	30-2-13-665-30	queryK : 7	modify  : 0	allVisted : 72	total:17052
+Jun 6, 2022, 6:52:24 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 5-62-422-725-5leaves: 189	keys size:10780
+Jun 6, 2022, 6:57:53 PM	DBPedia	5-62-422-725-5	queryK : 7	modify  : 0	allVisted : 7	total:10780
+Jun 6, 2022, 7:01:42 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 60-2-13-665-60leaves: 1723	keys size:12200
+Jun 6, 2022, 7:07:06 PM	DBPedia	60-2-13-665-60	queryK : 7	modify  : 0	allVisted : 22	total:12200
+Jun 6, 2022, 7:13:51 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 23-15-25-678-23leaves: 0	keys size:19005
+Jun 6, 2022, 7:17:32 PM	DBPedia	23-15-25-678-23	queryK : 7	modify  : 0	allVisted : 13	total:19005
+Jun 6, 2022, 7:20:06 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 30-58-0-721-30leaves: 8997	keys size:9022
+Jun 6, 2022, 7:22:19 PM	DBPedia	30-58-0-721-30	queryK : 7	modify  : 0	allVisted : 13	total:9022
+Jun 6, 2022, 7:29:06 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 7-2-13-665-7leaves: 15	keys size:20060
+Jun 6, 2022, 7:32:21 PM	DBPedia	7-2-13-665-7	queryK : 7	modify  : 0	allVisted : 9	total:20060
+Jun 6, 2022, 7:41:31 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 7-3-29-666-7leaves: 21	keys size:24487
+Jun 6, 2022, 7:46:16 PM	DBPedia	7-3-29-666-7	queryK : 7	modify  : 0	allVisted : 12	total:24487
+Jun 6, 2022, 7:49:53 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 189-7-13-670-189leaves: 57146	keys size:59910
+Jun 6, 2022, 7:52:49 PM	DBPedia	189-7-13-670-189	queryK : 7	modify  : 0	allVisted : 209	total:59910
+Jun 6, 2022, 7:58:00 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 59-200-0-863-59leaves: 0	keys size:15715
+Jun 6, 2022, 8:01:09 PM	DBPedia	59-200-0-863-59	queryK : 7	modify  : 0	allVisted : 6	total:15715
+Jun 6, 2022, 8:04:15 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 34-73-96-736-34leaves: 26890	keys size:28935
+Jun 6, 2022, 8:06:57 PM	DBPedia	34-73-96-736-34	queryK : 7	modify  : 0	allVisted : 6	total:28935
+Jun 6, 2022, 8:09:49 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 227-2-13-665-227leaves: 15405	keys size:17064
+Jun 6, 2022, 8:12:11 PM	DBPedia	227-2-13-665-227	queryK : 7	modify  : 0	allVisted : 56	total:17064
+Jun 6, 2022, 8:14:37 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 55-58-0-721-55leaves: 9318	keys size:13828
+Jun 6, 2022, 8:16:51 PM	DBPedia	55-58-0-721-55	queryK : 7	modify  : 0	allVisted : 12	total:13828
+Jun 6, 2022, 8:19:27 PM	Advanced2-> DBPedia	queryK: 7	Meta-Path: 2-2-13-665-2leaves: 17681	keys size:17733
+Jun 6, 2022, 8:21:32 PM	DBPedia	2-2-13-665-2	queryK : 7	modify  : 0	allVisted : 26	total:17733
+Jun 6, 2022, 8:34:57 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 55-2-13-665-55leaves: 38335	keys size:38535
+Jun 6, 2022, 8:46:51 PM	DBPedia	55-2-13-665-55	queryK : 9	modify  : 0	allVisted : 102	total:38535
+Jun 6, 2022, 8:48:47 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 122-7-13-670-122leaves: 11677	keys size:12997
+Jun 6, 2022, 8:50:24 PM	DBPedia	122-7-13-670-122	queryK : 9	modify  : 0	allVisted : 40	total:12997
+Jun 6, 2022, 9:05:24 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 166-81-38-744-166leaves: 87746	keys size:150710
+Jun 6, 2022, 9:20:46 PM	DBPedia	166-81-38-744-166	queryK : 9	modify  : 0	allVisted : 777	total:150710
+Jun 6, 2022, 9:38:49 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 144-185-422-848-144leaves: 17402	keys size:32274
+Jun 6, 2022, 9:54:38 PM	DBPedia	144-185-422-848-144	queryK : 9	modify  : 0	allVisted : 7	total:32274
+Jun 6, 2022, 10:05:57 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 47-84-0-747-47leaves: 18537	keys size:18625
+Jun 6, 2022, 10:16:35 PM	DBPedia	47-84-0-747-47	queryK : 9	modify  : 0	allVisted : 2	total:18625
+Jun 6, 2022, 10:31:57 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 3-10-70-673-3leaves: 3506	keys size:31299
+Jun 6, 2022, 10:41:22 PM	DBPedia	3-10-70-673-3	queryK : 9	modify  : 0	allVisted : 169	total:31299
+Jun 6, 2022, 10:59:39 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 8-31-0-694-8leaves: 177	keys size:33346
+Jun 6, 2022, 11:06:42 PM	DBPedia	8-31-0-694-8	queryK : 9	modify  : 0	allVisted : 19	total:33346
+Jun 6, 2022, 11:12:09 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 47-83-422-746-47leaves: 12592	keys size:12713
+Jun 6, 2022, 11:16:52 PM	DBPedia	47-83-422-746-47	queryK : 9	modify  : 0	allVisted : 2	total:12713
+Jun 6, 2022, 11:23:23 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 59-73-96-736-59leaves: 32660	keys size:33894
+Jun 6, 2022, 11:28:46 PM	DBPedia	59-73-96-736-59	queryK : 9	modify  : 0	allVisted : 7	total:33894
+Jun 6, 2022, 11:32:53 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 55-52-422-715-55leaves: 30322	keys size:33082
+Jun 6, 2022, 11:36:24 PM	DBPedia	55-52-422-715-55	queryK : 9	modify  : 0	allVisted : 39	total:33082
+Jun 6, 2022, 11:40:44 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 47-82-422-745-47leaves: 10750	keys size:10752
+Jun 6, 2022, 11:44:23 PM	DBPedia	47-82-422-745-47	queryK : 9	modify  : 0	allVisted : 1	total:10752
+Jun 6, 2022, 11:52:06 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 54-178-422-841-54leaves: 27	keys size:19497
+Jun 6, 2022, 11:55:40 PM	DBPedia	54-178-422-841-54	queryK : 9	modify  : 0	allVisted : 5	total:19497
+Jun 6, 2022, 11:58:56 PM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 30-2-13-665-30leaves: 16772	keys size:16909
+Jun 7, 2022, 12:01:49 AM	DBPedia	30-2-13-665-30	queryK : 9	modify  : 0	allVisted : 69	total:16909
+Jun 7, 2022, 12:05:22 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 5-62-422-725-5leaves: 5910	keys size:10762
+Jun 7, 2022, 12:08:54 AM	DBPedia	5-62-422-725-5	queryK : 9	modify  : 0	allVisted : 5	total:10762
+Jun 7, 2022, 12:12:43 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 60-2-13-665-60leaves: 2888	keys size:12116
+Jun 7, 2022, 12:16:36 AM	DBPedia	60-2-13-665-60	queryK : 9	modify  : 0	allVisted : 16	total:12116
+Jun 7, 2022, 12:23:04 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 23-15-25-678-23leaves: 0	keys size:18778
+Jun 7, 2022, 12:26:56 AM	DBPedia	23-15-25-678-23	queryK : 9	modify  : 0	allVisted : 12	total:18778
+Jun 7, 2022, 12:29:25 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 30-58-0-721-30leaves: 8973	keys size:8996
+Jun 7, 2022, 12:31:32 AM	DBPedia	30-58-0-721-30	queryK : 9	modify  : 0	allVisted : 12	total:8996
+Jun 7, 2022, 12:38:20 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 7-2-13-665-7leaves: 10	keys size:19894
+Jun 7, 2022, 12:41:39 AM	DBPedia	7-2-13-665-7	queryK : 9	modify  : 0	allVisted : 7	total:19894
+Jun 7, 2022, 12:50:50 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 7-3-29-666-7leaves: 19	keys size:24356
+Jun 7, 2022, 12:53:23 AM	DBPedia	7-3-29-666-7	queryK : 9	modify  : 0	allVisted : 8	total:24356
+Jun 7, 2022, 12:56:55 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 189-7-13-670-189leaves: 56508	keys size:59445
+Jun 7, 2022, 12:59:39 AM	DBPedia	189-7-13-670-189	queryK : 9	modify  : 0	allVisted : 198	total:59445
+Jun 7, 2022, 1:04:46 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 59-200-0-863-59leaves: 0	keys size:15617
+Jun 7, 2022, 1:07:04 AM	DBPedia	59-200-0-863-59	queryK : 9	modify  : 0	allVisted : 6	total:15617
+Jun 7, 2022, 1:10:15 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 34-73-96-736-34leaves: 25555	keys size:28757
+Jun 7, 2022, 1:12:52 AM	DBPedia	34-73-96-736-34	queryK : 9	modify  : 0	allVisted : 5	total:28757
+Jun 7, 2022, 1:15:44 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 227-2-13-665-227leaves: 15002	keys size:16901
+Jun 7, 2022, 1:18:01 AM	DBPedia	227-2-13-665-227	queryK : 9	modify  : 0	allVisted : 49	total:16901
+Jun 7, 2022, 1:20:31 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 55-58-0-721-55leaves: 7909	keys size:13806
+Jun 7, 2022, 1:23:04 AM	DBPedia	55-58-0-721-55	queryK : 9	modify  : 0	allVisted : 12	total:13806
+Jun 7, 2022, 1:25:40 AM	Advanced2-> DBPedia	queryK: 9	Meta-Path: 2-2-13-665-2leaves: 17633	keys size:17681
+Jun 7, 2022, 1:27:44 AM	DBPedia	2-2-13-665-2	queryK : 9	modify  : 0	allVisted : 25	total:17681
+Jun 7, 2022, 1:41:13 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 55-2-13-665-55leaves: 38141	keys size:38331
+Jun 7, 2022, 1:53:04 AM	DBPedia	55-2-13-665-55	queryK : 11	modify  : 0	allVisted : 96	total:38331
+Jun 7, 2022, 1:54:59 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 122-7-13-670-122leaves: 11556	keys size:12919
+Jun 7, 2022, 1:56:34 AM	DBPedia	122-7-13-670-122	queryK : 11	modify  : 0	allVisted : 38	total:12919
+Jun 7, 2022, 2:11:58 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 166-81-38-744-166leaves: 77638	keys size:149560
+Jun 7, 2022, 2:28:13 AM	DBPedia	166-81-38-744-166	queryK : 11	modify  : 0	allVisted : 735	total:149560
+Jun 7, 2022, 2:47:46 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 144-185-422-848-144leaves: 12510	keys size:32211
+Jun 7, 2022, 3:04:31 AM	DBPedia	144-185-422-848-144	queryK : 11	modify  : 0	allVisted : 6	total:32211
+Jun 7, 2022, 3:16:24 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 47-84-0-747-47leaves: 18510	keys size:18619
+Jun 7, 2022, 3:27:20 AM	DBPedia	47-84-0-747-47	queryK : 11	modify  : 0	allVisted : 2	total:18619
+Jun 7, 2022, 3:42:33 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 3-10-70-673-3leaves: 3242	keys size:30703
+Jun 7, 2022, 3:53:57 AM	DBPedia	3-10-70-673-3	queryK : 11	modify  : 0	allVisted : 137	total:30703
+Jun 7, 2022, 4:11:36 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 8-31-0-694-8leaves: 164	keys size:32939
+Jun 7, 2022, 4:19:37 AM	DBPedia	8-31-0-694-8	queryK : 11	modify  : 0	allVisted : 14	total:32939
+Jun 7, 2022, 4:24:47 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 47-83-422-746-47leaves: 12574	keys size:12709
+Jun 7, 2022, 4:29:37 AM	DBPedia	47-83-422-746-47	queryK : 11	modify  : 0	allVisted : 2	total:12709
+Jun 7, 2022, 4:36:02 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 59-73-96-736-59leaves: 32299	keys size:33745
+Jun 7, 2022, 4:41:23 AM	DBPedia	59-73-96-736-59	queryK : 11	modify  : 0	allVisted : 7	total:33745
+Jun 7, 2022, 4:45:27 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 55-52-422-715-55leaves: 30092	keys size:32981
+Jun 7, 2022, 4:48:58 AM	DBPedia	55-52-422-715-55	queryK : 11	modify  : 0	allVisted : 38	total:32981
+Jun 7, 2022, 4:53:17 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 47-82-422-745-47leaves: 10746	keys size:10748
+Jun 7, 2022, 4:56:59 AM	DBPedia	47-82-422-745-47	queryK : 11	modify  : 0	allVisted : 1	total:10748
+Jun 7, 2022, 5:04:39 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 54-178-422-841-54leaves: 25	keys size:19447
+Jun 7, 2022, 5:08:15 AM	DBPedia	54-178-422-841-54	queryK : 11	modify  : 0	allVisted : 5	total:19447
+Jun 7, 2022, 5:11:32 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 30-2-13-665-30leaves: 16647	keys size:16772
+Jun 7, 2022, 5:14:27 AM	DBPedia	30-2-13-665-30	queryK : 11	modify  : 0	allVisted : 64	total:16772
+Jun 7, 2022, 5:18:10 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 5-62-422-725-5leaves: 4516	keys size:10742
+Jun 7, 2022, 5:22:06 AM	DBPedia	5-62-422-725-5	queryK : 11	modify  : 0	allVisted : 5	total:10742
+Jun 7, 2022, 5:26:12 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 60-2-13-665-60leaves: 2471	keys size:12050
+Jun 7, 2022, 5:28:50 AM	DBPedia	60-2-13-665-60	queryK : 11	modify  : 0	allVisted : 15	total:12050
+Jun 7, 2022, 5:35:15 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 23-15-25-678-23leaves: 0	keys size:18574
+Jun 7, 2022, 5:37:55 AM	DBPedia	23-15-25-678-23	queryK : 11	modify  : 0	allVisted : 10	total:18574
+Jun 7, 2022, 5:40:25 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 30-58-0-721-30leaves: 8950	keys size:8971
+Jun 7, 2022, 5:42:28 AM	DBPedia	30-58-0-721-30	queryK : 11	modify  : 0	allVisted : 11	total:8971
+Jun 7, 2022, 5:49:09 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 7-2-13-665-7leaves: 7	keys size:19738
+Jun 7, 2022, 5:51:42 AM	DBPedia	7-2-13-665-7	queryK : 11	modify  : 0	allVisted : 6	total:19738
+Jun 7, 2022, 6:00:45 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 7-3-29-666-7leaves: 17	keys size:24246
+Jun 7, 2022, 6:03:18 AM	DBPedia	7-3-29-666-7	queryK : 11	modify  : 0	allVisted : 8	total:24246
+Jun 7, 2022, 6:06:47 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 189-7-13-670-189leaves: 55573	keys size:59005
+Jun 7, 2022, 6:09:28 AM	DBPedia	189-7-13-670-189	queryK : 11	modify  : 0	allVisted : 189	total:59005
+Jun 7, 2022, 6:12:17 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 59-200-0-863-59leaves: 14785	keys size:15525
+Jun 7, 2022, 6:14:26 AM	DBPedia	59-200-0-863-59	queryK : 11	modify  : 0	allVisted : 6	total:15525
+Jun 7, 2022, 6:17:34 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 34-73-96-736-34leaves: 25158	keys size:28609
+Jun 7, 2022, 6:20:12 AM	DBPedia	34-73-96-736-34	queryK : 11	modify  : 0	allVisted : 6	total:28609
+Jun 7, 2022, 6:23:04 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 227-2-13-665-227leaves: 13151	keys size:16752
+Jun 7, 2022, 6:25:27 AM	DBPedia	227-2-13-665-227	queryK : 11	modify  : 0	allVisted : 42	total:16752
+Jun 7, 2022, 6:28:00 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 55-58-0-721-55leaves: 7156	keys size:13784
+Jun 7, 2022, 6:29:53 AM	DBPedia	55-58-0-721-55	queryK : 11	modify  : 0	allVisted : 10	total:13784
+Jun 7, 2022, 6:32:28 AM	Advanced2-> DBPedia	queryK: 11	Meta-Path: 2-2-13-665-2leaves: 17591	keys size:17633
+Jun 7, 2022, 6:34:30 AM	DBPedia	2-2-13-665-2	queryK : 11	modify  : 0	allVisted : 23	total:17633
+Jun 7, 2022, 6:48:01 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 55-2-13-665-55leaves: 37952	keys size:38137
+Jun 7, 2022, 7:00:11 AM	DBPedia	55-2-13-665-55	queryK : 13	modify  : 0	allVisted : 93	total:38137
+Jun 7, 2022, 7:02:04 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 122-7-13-670-122leaves: 11651	keys size:12850
+Jun 7, 2022, 7:03:36 AM	DBPedia	122-7-13-670-122	queryK : 13	modify  : 0	allVisted : 34	total:12850
+Jun 7, 2022, 7:19:26 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 166-81-38-744-166leaves: 71442	keys size:148476
+Jun 7, 2022, 7:35:24 AM	DBPedia	166-81-38-744-166	queryK : 13	modify  : 0	allVisted : 687	total:148476
+Jun 7, 2022, 7:57:27 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 144-185-422-848-144leaves: 7317	keys size:32154
+Jun 7, 2022, 8:16:51 AM	DBPedia	144-185-422-848-144	queryK : 13	modify  : 0	allVisted : 6	total:32154
+Jun 7, 2022, 8:28:27 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 47-84-0-747-47leaves: 18496	keys size:18613
+Jun 7, 2022, 8:39:22 AM	DBPedia	47-84-0-747-47	queryK : 13	modify  : 0	allVisted : 2	total:18613
+Jun 7, 2022, 8:54:25 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 3-10-70-673-3leaves: 2986	keys size:30184
+Jun 7, 2022, 9:02:38 AM	DBPedia	3-10-70-673-3	queryK : 13	modify  : 0	allVisted : 118	total:30184
+Jun 7, 2022, 9:20:06 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 8-31-0-694-8leaves: 153	keys size:32573
+Jun 7, 2022, 9:28:17 AM	DBPedia	8-31-0-694-8	queryK : 13	modify  : 0	allVisted : 13	total:32573
+Jun 7, 2022, 9:33:34 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 47-83-422-746-47leaves: 12561	keys size:12705
+Jun 7, 2022, 9:38:22 AM	DBPedia	47-83-422-746-47	queryK : 13	modify  : 0	allVisted : 2	total:12705
+Jun 7, 2022, 9:44:49 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 59-73-96-736-59leaves: 31945	keys size:33610
+Jun 7, 2022, 9:50:17 AM	DBPedia	59-73-96-736-59	queryK : 13	modify  : 0	allVisted : 7	total:33610
+Jun 7, 2022, 9:54:38 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 55-52-422-715-55leaves: 28149	keys size:32879
+Jun 7, 2022, 9:58:15 AM	DBPedia	55-52-422-715-55	queryK : 13	modify  : 0	allVisted : 35	total:32879
+Jun 7, 2022, 10:02:55 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 47-82-422-745-47leaves: 10744	keys size:10746
+Jun 7, 2022, 10:06:44 AM	DBPedia	47-82-422-745-47	queryK : 13	modify  : 0	allVisted : 1	total:10746
+Jun 7, 2022, 10:14:44 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 54-178-422-841-54leaves: 23	keys size:19405
+Jun 7, 2022, 10:18:24 AM	DBPedia	54-178-422-841-54	queryK : 13	modify  : 0	allVisted : 5	total:19405
+Jun 7, 2022, 10:21:31 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 30-2-13-665-30leaves: 16540	keys size:16647
+Jun 7, 2022, 10:24:37 AM	DBPedia	30-2-13-665-30	queryK : 13	modify  : 0	allVisted : 55	total:16647
+Jun 7, 2022, 10:29:13 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 5-62-422-725-5leaves: 31	keys size:10724
+Jun 7, 2022, 10:32:45 AM	DBPedia	5-62-422-725-5	queryK : 13	modify  : 0	allVisted : 4	total:10724
+Jun 7, 2022, 10:35:45 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 60-2-13-665-60leaves: 11512	keys size:11988
+Jun 7, 2022, 10:38:27 AM	DBPedia	60-2-13-665-60	queryK : 13	modify  : 0	allVisted : 15	total:11988
+Jun 7, 2022, 10:44:58 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 23-15-25-678-23leaves: 0	keys size:18397
+Jun 7, 2022, 10:47:42 AM	DBPedia	23-15-25-678-23	queryK : 13	modify  : 0	allVisted : 10	total:18397
+Jun 7, 2022, 10:50:12 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 30-58-0-721-30leaves: 8929	keys size:8949
+Jun 7, 2022, 10:52:17 AM	DBPedia	30-58-0-721-30	queryK : 13	modify  : 0	allVisted : 10	total:8949
+Jun 7, 2022, 10:59:00 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 7-2-13-665-7leaves: 5	keys size:19593
+Jun 7, 2022, 11:01:32 AM	DBPedia	7-2-13-665-7	queryK : 13	modify  : 0	allVisted : 5	total:19593
+Jun 7, 2022, 11:10:39 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 7-3-29-666-7leaves: 15	keys size:24136
+Jun 7, 2022, 11:13:12 AM	DBPedia	7-3-29-666-7	queryK : 13	modify  : 0	allVisted : 9	total:24136
+Jun 7, 2022, 11:16:38 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 189-7-13-670-189leaves: 54827	keys size:58579
+Jun 7, 2022, 11:19:15 AM	DBPedia	189-7-13-670-189	queryK : 13	modify  : 0	allVisted : 184	total:58579
+Jun 7, 2022, 11:22:03 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 59-200-0-863-59leaves: 14502	keys size:15454
+Jun 7, 2022, 11:24:18 AM	DBPedia	59-200-0-863-59	queryK : 13	modify  : 0	allVisted : 6	total:15454
+Jun 7, 2022, 11:27:33 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 34-73-96-736-34leaves: 24845	keys size:28460
+Jun 7, 2022, 11:30:17 AM	DBPedia	34-73-96-736-34	queryK : 13	modify  : 0	allVisted : 6	total:28460
+Jun 7, 2022, 11:33:20 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 227-2-13-665-227leaves: 12033	keys size:16620
+Jun 7, 2022, 11:35:44 AM	DBPedia	227-2-13-665-227	queryK : 13	modify  : 0	allVisted : 34	total:16620
+Jun 7, 2022, 11:38:22 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 55-58-0-721-55leaves: 7141	keys size:13766
+Jun 7, 2022, 11:40:20 AM	DBPedia	55-58-0-721-55	queryK : 13	modify  : 0	allVisted : 10	total:13766
+Jun 7, 2022, 11:42:54 AM	Advanced2-> DBPedia	queryK: 13	Meta-Path: 2-2-13-665-2leaves: 17553	keys size:17591
+Jun 7, 2022, 11:44:54 AM	DBPedia	2-2-13-665-2	queryK : 13	modify  : 0	allVisted : 19	total:17591
+Jun 7, 2022, 11:58:44 AM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 55-2-13-665-55leaves: 37772	keys size:37948
+Jun 7, 2022, 12:11:00 PM	DBPedia	55-2-13-665-55	queryK : 15	modify  : 0	allVisted : 89	total:37948
+Jun 7, 2022, 12:12:56 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 122-7-13-670-122leaves: 11483	keys size:12786
+Jun 7, 2022, 12:14:25 PM	DBPedia	122-7-13-670-122	queryK : 15	modify  : 0	allVisted : 33	total:12786
+Jun 7, 2022, 12:30:29 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 166-81-38-744-166leaves: 64445	keys size:147444
+Jun 7, 2022, 12:47:16 PM	DBPedia	166-81-38-744-166	queryK : 15	modify  : 0	allVisted : 656	total:147444
+Jun 7, 2022, 1:11:05 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 144-185-422-848-144leaves: 4842	keys size:32101
+Jun 7, 2022, 1:31:42 PM	DBPedia	144-185-422-848-144	queryK : 15	modify  : 0	allVisted : 6	total:32101
+Jun 7, 2022, 1:43:32 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 47-84-0-747-47leaves: 18484	keys size:18607
+Jun 7, 2022, 1:54:35 PM	DBPedia	47-84-0-747-47	queryK : 15	modify  : 0	allVisted : 2	total:18607
+Jun 7, 2022, 2:09:52 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 3-10-70-673-3leaves: 2804	keys size:29730
+Jun 7, 2022, 2:18:52 PM	DBPedia	3-10-70-673-3	queryK : 15	modify  : 0	allVisted : 100	total:29730
+Jun 7, 2022, 2:36:33 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 8-31-0-694-8leaves: 145	keys size:32252
+Jun 7, 2022, 2:44:51 PM	DBPedia	8-31-0-694-8	queryK : 15	modify  : 0	allVisted : 11	total:32252
+Jun 7, 2022, 2:51:01 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 47-83-422-746-47leaves: 12522	keys size:12699
+Jun 7, 2022, 2:56:41 PM	DBPedia	47-83-422-746-47	queryK : 15	modify  : 0	allVisted : 2	total:12699
+Jun 7, 2022, 3:04:29 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 59-73-96-736-59leaves: 30822	keys size:33474
+Jun 7, 2022, 3:10:22 PM	DBPedia	59-73-96-736-59	queryK : 15	modify  : 0	allVisted : 7	total:33474
+Jun 7, 2022, 3:14:50 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 55-52-422-715-55leaves: 27152	keys size:32784
+Jun 7, 2022, 3:18:46 PM	DBPedia	55-52-422-715-55	queryK : 15	modify  : 0	allVisted : 35	total:32784
+Jun 7, 2022, 3:23:22 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 47-82-422-745-47leaves: 10742	keys size:10744
+Jun 7, 2022, 3:27:08 PM	DBPedia	47-82-422-745-47	queryK : 15	modify  : 0	allVisted : 1	total:10744
+Jun 7, 2022, 3:35:01 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 54-178-422-841-54leaves: 21	keys size:19362
+Jun 7, 2022, 3:38:41 PM	DBPedia	54-178-422-841-54	queryK : 15	modify  : 0	allVisted : 5	total:19362
+Jun 7, 2022, 3:41:49 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 30-2-13-665-30leaves: 16442	keys size:16540
+Jun 7, 2022, 3:44:46 PM	DBPedia	30-2-13-665-30	queryK : 15	modify  : 0	allVisted : 50	total:16540
+Jun 7, 2022, 3:49:17 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 5-62-422-725-5leaves: 29	keys size:10703
+Jun 7, 2022, 3:52:37 PM	DBPedia	5-62-422-725-5	queryK : 15	modify  : 0	allVisted : 4	total:10703
+Jun 7, 2022, 3:55:53 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 60-2-13-665-60leaves: 11418	keys size:11934
+Jun 7, 2022, 3:58:38 PM	DBPedia	60-2-13-665-60	queryK : 15	modify  : 0	allVisted : 15	total:11934
+Jun 7, 2022, 4:05:09 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 23-15-25-678-23leaves: 0	keys size:18243
+Jun 7, 2022, 4:08:31 PM	DBPedia	23-15-25-678-23	queryK : 15	modify  : 0	allVisted : 10	total:18243
+Jun 7, 2022, 4:11:36 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 30-58-0-721-30leaves: 8907	keys size:8927
+Jun 7, 2022, 4:14:15 PM	DBPedia	30-58-0-721-30	queryK : 15	modify  : 0	allVisted : 10	total:8927
+Jun 7, 2022, 4:21:25 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 7-2-13-665-7leaves: 3	keys size:19452
+Jun 7, 2022, 4:24:08 PM	DBPedia	7-2-13-665-7	queryK : 15	modify  : 0	allVisted : 5	total:19452
+Jun 7, 2022, 4:33:52 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 7-3-29-666-7leaves: 13	keys size:24033
+Jun 7, 2022, 4:36:47 PM	DBPedia	7-3-29-666-7	queryK : 15	modify  : 0	allVisted : 9	total:24033
+Jun 7, 2022, 4:40:20 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 189-7-13-670-189leaves: 54435	keys size:58164
+Jun 7, 2022, 4:43:16 PM	DBPedia	189-7-13-670-189	queryK : 15	modify  : 0	allVisted : 180	total:58164
+Jun 7, 2022, 4:46:10 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 59-200-0-863-59leaves: 14457	keys size:15381
+Jun 7, 2022, 4:48:48 PM	DBPedia	59-200-0-863-59	queryK : 15	modify  : 0	allVisted : 6	total:15381
+Jun 7, 2022, 4:52:40 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 34-73-96-736-34leaves: 24052	keys size:28322
+Jun 7, 2022, 4:55:22 PM	DBPedia	34-73-96-736-34	queryK : 15	modify  : 0	allVisted : 5	total:28322
+Jun 7, 2022, 4:58:24 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 227-2-13-665-227leaves: 11508	keys size:16504
+Jun 7, 2022, 5:00:43 PM	DBPedia	227-2-13-665-227	queryK : 15	modify  : 0	allVisted : 29	total:16504
+Jun 7, 2022, 5:03:22 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 55-58-0-721-55leaves: 7127	keys size:13749
+Jun 7, 2022, 5:05:25 PM	DBPedia	55-58-0-721-55	queryK : 15	modify  : 0	allVisted : 9	total:13749
+Jun 7, 2022, 5:08:06 PM	Advanced2-> DBPedia	queryK: 15	Meta-Path: 2-2-13-665-2leaves: 17515	keys size:17553
+Jun 7, 2022, 5:10:16 PM	DBPedia	2-2-13-665-2	queryK : 15	modify  : 0	allVisted : 19	total:17553
+Jun 7, 2022, 11:44:24 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 936	keys size:956
+Jun 7, 2022, 11:44:36 PM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 10	total:956
+Jun 7, 2022, 11:44:49 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 122-7-13-670-122leaves: 56	keys size:62
+Jun 7, 2022, 11:44:59 PM	DBPedia	122-7-13-670-122	queryK : 5	modify  : 0	allVisted : 3	total:62
+Jun 7, 2022, 11:46:05 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 3735	keys size:9104
+Jun 7, 2022, 11:46:31 PM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 435	total:9104
+Jun 7, 2022, 11:46:52 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 1381	keys size:1427
+Jun 7, 2022, 11:47:03 PM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 6	total:1427
+Jun 7, 2022, 11:47:15 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 0	keys size:0
+Jun 7, 2022, 11:47:25 PM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 0	total:0
+Jun 7, 2022, 11:47:41 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 291	keys size:347
+Jun 7, 2022, 11:47:53 PM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 32	total:347
+Jun 7, 2022, 11:48:22 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 95	keys size:1836
+Jun 7, 2022, 11:48:35 PM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 20	total:1836
+Jun 7, 2022, 11:48:47 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 109	keys size:111
+Jun 7, 2022, 11:48:57 PM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 1	total:111
+Jun 7, 2022, 11:49:17 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 381	keys size:1688
+Jun 7, 2022, 11:49:28 PM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 9	total:1688
+Jun 7, 2022, 11:49:52 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 1743	keys size:1756
+Jun 7, 2022, 11:50:05 PM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 7	total:1756
+Jun 7, 2022, 11:50:52 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 2142	keys size:2144
+Jun 7, 2022, 11:51:09 PM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:2144
+Jun 7, 2022, 11:51:24 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 569	keys size:677
+Jun 7, 2022, 11:51:34 PM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 5	total:677
+Jun 7, 2022, 11:51:47 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 266	keys size:274
+Jun 7, 2022, 11:51:58 PM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 5	total:274
+Jun 7, 2022, 11:52:10 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 5	keys size:11
+Jun 7, 2022, 11:52:20 PM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 3	total:11
+Jun 7, 2022, 11:52:54 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 1747	keys size:1756
+Jun 7, 2022, 11:53:09 PM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 6	total:1756
+Jun 7, 2022, 11:53:25 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 558	keys size:1000
+Jun 7, 2022, 11:53:36 PM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 10	total:1000
+Jun 7, 2022, 11:53:48 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 0	keys size:1
+Jun 7, 2022, 11:53:59 PM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 1	total:1
+Jun 7, 2022, 11:54:12 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 407	keys size:420
+Jun 7, 2022, 11:54:22 PM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 7	total:420
+Jun 7, 2022, 11:54:44 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 4	keys size:1475
+Jun 7, 2022, 11:54:55 PM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 6	total:1475
+Jun 7, 2022, 11:55:13 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 2107	keys size:2155
+Jun 7, 2022, 11:55:26 PM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 26	total:2155
+Jun 7, 2022, 11:55:47 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 1200	keys size:1304
+Jun 7, 2022, 11:55:58 PM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 6	total:1304
+Jun 7, 2022, 11:56:30 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 909	keys size:2104
+Jun 7, 2022, 11:56:42 PM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 9	total:2104
+Jun 7, 2022, 11:57:00 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 227-2-13-665-227leaves: 1085	keys size:1093
+Jun 7, 2022, 11:57:12 PM	DBPedia	227-2-13-665-227	queryK : 5	modify  : 0	allVisted : 5	total:1093
+Jun 7, 2022, 11:57:24 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-58-0-721-55leaves: 10	keys size:12
+Jun 7, 2022, 11:57:34 PM	DBPedia	55-58-0-721-55	queryK : 5	modify  : 0	allVisted : 1	total:12
+Jun 7, 2022, 11:57:48 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 564	keys size:570
+Jun 7, 2022, 11:57:58 PM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 3	total:570
+Jun 8, 2022, 12:09:50 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 11494	keys size:11563
+Jun 8, 2022, 12:11:39 AM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 35	total:11563
+Jun 8, 2022, 12:12:00 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 122-7-13-670-122leaves: 807	keys size:829
+Jun 8, 2022, 12:12:13 AM	DBPedia	122-7-13-670-122	queryK : 5	modify  : 0	allVisted : 11	total:829
+Jun 8, 2022, 12:21:50 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 21279	keys size:37624
+Jun 8, 2022, 12:23:39 AM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 1085	total:37624
+Jun 8, 2022, 12:25:57 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 4881	keys size:4964
+Jun 8, 2022, 12:26:13 AM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 6	total:4964
+Jun 8, 2022, 12:37:24 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 6859	keys size:6861
+Jun 8, 2022, 12:38:55 AM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 1	total:6861
+Jun 8, 2022, 12:39:42 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 1201	keys size:1677
+Jun 8, 2022, 12:40:06 AM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 99	total:1677
+Jun 8, 2022, 12:55:02 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 290	keys size:8284
+Jun 8, 2022, 12:56:03 AM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 33	total:8284
+Jun 8, 2022, 12:56:19 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 237	keys size:239
+Jun 8, 2022, 12:56:29 AM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 1	total:239
+Jun 8, 2022, 1:01:10 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 5824	keys size:8058
+Jun 8, 2022, 1:01:38 AM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 8	total:8058
+Jun 8, 2022, 1:02:48 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 5042	keys size:5086
+Jun 8, 2022, 1:03:10 AM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 23	total:5086
+Jun 8, 2022, 1:06:38 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 4288	keys size:4290
+Jun 8, 2022, 1:07:15 AM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:4290
+Jun 8, 2022, 1:11:21 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 5537	keys size:6085
+Jun 8, 2022, 1:11:53 AM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 3	total:6085
+Jun 8, 2022, 1:13:52 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 5714	keys size:5757
+Jun 8, 2022, 1:14:24 AM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 23	total:5757
+Jun 8, 2022, 1:14:41 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 86	keys size:101
+Jun 8, 2022, 1:14:52 AM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 8	total:101
+Jun 8, 2022, 1:17:50 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 2412	keys size:4108
+Jun 8, 2022, 1:18:20 AM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 12	total:4108
+Jun 8, 2022, 1:19:03 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 2171	keys size:3064
+Jun 8, 2022, 1:19:16 AM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 11	total:3064
+Jun 8, 2022, 1:21:05 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 3478	keys size:3482
+Jun 8, 2022, 1:21:31 AM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 2	total:3482
+Jun 8, 2022, 1:24:48 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 5478	keys size:5586
+Jun 8, 2022, 1:25:14 AM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 8	total:5586
+Jun 8, 2022, 1:34:38 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 0	keys size:6525
+Jun 8, 2022, 1:35:02 AM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 9	total:6525
+Jun 8, 2022, 1:35:59 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 8881	keys size:9032
+Jun 8, 2022, 1:36:20 AM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 78	total:9032
+Jun 8, 2022, 1:40:30 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 4001	keys size:4362
+Jun 8, 2022, 1:40:53 AM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 7	total:4362
+Jun 8, 2022, 1:45:48 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 6706	keys size:8359
+Jun 8, 2022, 1:46:11 AM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 7	total:8359
+Jun 8, 2022, 1:47:45 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 227-2-13-665-227leaves: 5294	keys size:5322
+Jun 8, 2022, 1:48:10 AM	DBPedia	227-2-13-665-227	queryK : 5	modify  : 0	allVisted : 14	total:5322
+Jun 8, 2022, 1:48:44 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-58-0-721-55leaves: 1713	keys size:1717
+Jun 8, 2022, 1:48:58 AM	DBPedia	55-58-0-721-55	queryK : 5	modify  : 0	allVisted : 2	total:1717
+Jun 8, 2022, 1:49:29 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 2447	keys size:2461
+Jun 8, 2022, 1:49:44 AM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 7	total:2461
+Jun 8, 2022, 2:26:50 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 18829	keys size:18946
+Jun 8, 2022, 2:30:30 AM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 60	total:18946
+Jun 8, 2022, 2:31:04 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 122-7-13-670-122leaves: 1454	keys size:1502
+Jun 8, 2022, 2:31:21 AM	DBPedia	122-7-13-670-122	queryK : 5	modify  : 0	allVisted : 23	total:1502
+Jun 8, 2022, 3:17:18 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 49615	keys size:74511
+Jun 8, 2022, 3:21:19 AM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 1328	total:74511
+Jun 8, 2022, 4:35:14 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 8030	keys size:13457
+Jun 8, 2022, 4:37:21 AM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 8	total:13457
+Jun 8, 2022, 5:10:28 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 11064	keys size:11068
+Jun 8, 2022, 5:13:37 AM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 2	total:11068
+Jun 8, 2022, 5:48:07 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 3276	keys size:15490
+Jun 8, 2022, 5:50:23 AM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 157	total:15490
+Jun 8, 2022, 7:08:44 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 101	keys size:15760
+Jun 8, 2022, 7:10:46 AM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 25	total:15760
+Jun 8, 2022, 7:31:26 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 7532	keys size:7609
+Jun 8, 2022, 7:32:58 AM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 2	total:7609
+Jun 8, 2022, 8:09:05 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 11649	keys size:15493
+Jun 8, 2022, 8:10:16 AM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 7	total:15493
+Jun 8, 2022, 8:14:08 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 10709	keys size:11098
+Jun 8, 2022, 8:14:51 AM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 31	total:11098
+Jun 8, 2022, 8:24:51 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 6484	keys size:6486
+Jun 8, 2022, 8:26:07 AM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:6486
+Jun 8, 2022, 8:49:54 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 18	keys size:9307
+Jun 8, 2022, 8:50:56 AM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 5	total:9307
+Jun 8, 2022, 8:55:29 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 8798	keys size:8882
+Jun 8, 2022, 8:56:38 AM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 44	total:8882
+Jun 8, 2022, 9:13:50 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 3197	keys size:5784
+Jun 8, 2022, 9:15:03 AM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 5	total:5784
+Jun 8, 2022, 9:23:25 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 4611	keys size:6623
+Jun 8, 2022, 9:24:21 AM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 21	total:6623
+Jun 8, 2022, 9:29:57 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 6548	keys size:7311
+Jun 8, 2022, 9:30:14 AM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 10	total:7311
+Jun 8, 2022, 9:33:48 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 5221	keys size:5230
+Jun 8, 2022, 9:34:35 AM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 5	total:5230
+Jun 8, 2022, 9:45:30 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 35	keys size:9516
+Jun 8, 2022, 9:46:21 AM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 8	total:9516
+Jun 8, 2022, 10:20:01 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 48	keys size:11656
+Jun 8, 2022, 10:20:53 AM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 10	total:11656
+Jun 8, 2022, 10:23:27 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 21075	keys size:21808
+Jun 8, 2022, 10:24:08 AM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 130	total:21808
+Jun 8, 2022, 10:39:09 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 7112	keys size:7322
+Jun 8, 2022, 10:39:53 AM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 7	total:7322
+Jun 8, 2022, 11:02:28 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 11911	keys size:14789
+Jun 8, 2022, 11:03:17 AM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 5	total:14789
+Jun 8, 2022, 11:08:20 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 227-2-13-665-227leaves: 5879	keys size:8892
+Jun 8, 2022, 11:09:09 AM	DBPedia	227-2-13-665-227	queryK : 5	modify  : 0	allVisted : 34	total:8892
+Jun 8, 2022, 11:10:17 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-58-0-721-55leaves: 3025	keys size:3033
+Jun 8, 2022, 11:10:37 AM	DBPedia	55-58-0-721-55	queryK : 5	modify  : 0	allVisted : 4	total:3033
+Jun 8, 2022, 11:14:16 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 7813	keys size:7835
+Jun 8, 2022, 11:14:59 AM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 11	total:7835
+Jun 8, 2022, 12:36:42 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-2-13-665-55leaves: 27931	keys size:28107
+Jun 8, 2022, 12:43:51 PM	DBPedia	55-2-13-665-55	queryK : 5	modify  : 0	allVisted : 91	total:28107
+Jun 8, 2022, 12:50:28 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 122-7-13-670-122leaves: 8869	keys size:9597
+Jun 8, 2022, 12:51:26 PM	DBPedia	122-7-13-670-122	queryK : 5	modify  : 0	allVisted : 36	total:9597
+Jun 8, 2022, 3:21:19 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 166-81-38-744-166leaves: 71950	keys size:115423
+Jun 8, 2022, 3:28:36 PM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 1241	total:115423
+Jun 9, 2022, 1:51:12 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 144-185-422-848-144leaves: 19572	keys size:24866
+Jun 9, 2022, 2:00:18 AM	DBPedia	144-185-422-848-144	queryK : 5	modify  : 0	allVisted : 9	total:24866
+Jun 9, 2022, 3:21:06 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-84-0-747-47leaves: 14918	keys size:14922
+Jun 9, 2022, 3:28:06 AM	DBPedia	47-84-0-747-47	queryK : 5	modify  : 0	allVisted : 2	total:14922
+Jun 9, 2022, 5:51:52 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 3-10-70-673-3leaves: 15696	keys size:22651
+Jun 9, 2022, 5:57:02 AM	DBPedia	3-10-70-673-3	queryK : 5	modify  : 0	allVisted : 221	total:22651
+Jun 9, 2022, 9:17:34 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 8-31-0-694-8leaves: 142	keys size:23364
+Jun 9, 2022, 9:23:11 AM	DBPedia	8-31-0-694-8	queryK : 5	modify  : 0	allVisted : 40	total:23364
+Jun 9, 2022, 10:15:29 AM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-83-422-746-47leaves: 10073	keys size:10147
+Jun 9, 2022, 10:18:28 AM	DBPedia	47-83-422-746-47	queryK : 5	modify  : 0	allVisted : 2	total:10147
+Jun 9, 2022, 12:40:40 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-73-96-736-59leaves: 21514	keys size:25394
+Jun 9, 2022, 12:43:37 PM	DBPedia	59-73-96-736-59	queryK : 5	modify  : 0	allVisted : 8	total:25394
+Jun 9, 2022, 12:52:01 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-52-422-715-55leaves: 17257	keys size:17463
+Jun 9, 2022, 12:53:17 PM	DBPedia	55-52-422-715-55	queryK : 5	modify  : 0	allVisted : 43	total:17463
+Jun 9, 2022, 1:15:35 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 47-82-422-745-47leaves: 8639	keys size:8641
+Jun 9, 2022, 1:17:50 PM	DBPedia	47-82-422-745-47	queryK : 5	modify  : 0	allVisted : 1	total:8641
+Jun 9, 2022, 2:13:31 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 54-178-422-841-54leaves: 24	keys size:14927
+Jun 9, 2022, 2:15:43 PM	DBPedia	54-178-422-841-54	queryK : 5	modify  : 0	allVisted : 4	total:14927
+Jun 9, 2022, 2:30:20 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-2-13-665-30leaves: 13111	keys size:13236
+Jun 9, 2022, 2:32:12 PM	DBPedia	30-2-13-665-30	queryK : 5	modify  : 0	allVisted : 63	total:13236
+Jun 9, 2022, 3:14:08 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 5-62-422-725-5leaves: 4458	keys size:7691
+Jun 9, 2022, 3:16:21 PM	DBPedia	5-62-422-725-5	queryK : 5	modify  : 0	allVisted : 7	total:7691
+Jun 9, 2022, 3:44:03 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 60-2-13-665-60leaves: 2390	keys size:9535
+Jun 9, 2022, 3:46:26 PM	DBPedia	60-2-13-665-60	queryK : 5	modify  : 0	allVisted : 21	total:9535
+Jun 9, 2022, 4:02:30 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 23-15-25-678-23leaves: 3757	keys size:11185
+Jun 9, 2022, 4:02:58 PM	DBPedia	23-15-25-678-23	queryK : 5	modify  : 0	allVisted : 12	total:11185
+Jun 9, 2022, 4:13:53 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 30-58-0-721-30leaves: 7054	keys size:7071
+Jun 9, 2022, 4:15:20 PM	DBPedia	30-58-0-721-30	queryK : 5	modify  : 0	allVisted : 9	total:7071
+Jun 9, 2022, 5:04:10 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-2-13-665-7leaves: 5	keys size:14828
+Jun 9, 2022, 5:06:07 PM	DBPedia	7-2-13-665-7	queryK : 5	modify  : 0	allVisted : 8	total:14828
+Jun 9, 2022, 6:49:03 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 7-3-29-666-7leaves: 20	keys size:17986
+Jun 9, 2022, 6:51:17 PM	DBPedia	7-3-29-666-7	queryK : 5	modify  : 0	allVisted : 11	total:17986
+Jun 9, 2022, 6:58:03 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 189-7-13-670-189leaves: 38575	keys size:40739
+Jun 9, 2022, 6:59:32 PM	DBPedia	189-7-13-670-189	queryK : 5	modify  : 0	allVisted : 179	total:40739
+Jun 9, 2022, 7:32:32 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 59-200-0-863-59leaves: 11136	keys size:11275
+Jun 9, 2022, 7:33:43 PM	DBPedia	59-200-0-863-59	queryK : 5	modify  : 0	allVisted : 5	total:11275
+Jun 9, 2022, 8:43:54 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 34-73-96-736-34leaves: 17786	keys size:22005
+Jun 9, 2022, 8:45:28 PM	DBPedia	34-73-96-736-34	queryK : 5	modify  : 0	allVisted : 5	total:22005
+Jun 9, 2022, 8:59:08 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 227-2-13-665-227leaves: 10222	keys size:13269
+Jun 9, 2022, 9:00:37 PM	DBPedia	227-2-13-665-227	queryK : 5	modify  : 0	allVisted : 54	total:13269
+Jun 9, 2022, 9:14:30 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 55-58-0-721-55leaves: 6430	keys size:9415
+Jun 9, 2022, 9:15:48 PM	DBPedia	55-58-0-721-55	queryK : 5	modify  : 0	allVisted : 9	total:9415
+Jun 9, 2022, 9:23:13 PM	Advanced2-> DBPedia	queryK: 5	Meta-Path: 2-2-13-665-2leaves: 13722	keys size:13761
+Jun 9, 2022, 9:24:29 PM	DBPedia	2-2-13-665-2	queryK : 5	modify  : 0	allVisted : 20	total:13761
+Jun 22, 2022, 11:50:25 PM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 914	total:153295
+Jun 23, 2022, 12:24:22 AM	DBPedia	166-81-38-744-166	queryK : 5	modify  : 0	allVisted : 914	total:153295
+Jun 24, 2022, 1:52:01 AM	DBLPWithWeight	0-0-1-3-0	queryK : 5	modify  : 0	allVisted : 374	total:174540
+Jun 24, 2022, 1:57:08 AM	DBLPWithWeight	0-1-2-4-0	queryK : 5	modify  : 0	allVisted : 3129	total:331475
+Jun 24, 2022, 2:01:40 AM	DBLPWithWeight	0-0-1-3-0	queryK : 5	modify  : 0	allVisted : 374	total:174540
+Jun 24, 2022, 10:13:52 AM	DBLPWithWeight	0-0-1-3-0	queryK : 5	modify  : 0	allVisted : 374	total:174540
+Jun 24, 2022, 10:19:07 AM	DBLPWithWeight	0-1-2-4-0	queryK : 5	modify  : 0	allVisted : 3129	total:331475
+Jun 24, 2022, 10:28:17 AM	DBLPWithWeight	0-2-3-5-0	queryK : 5	modify  : 0	allVisted : 4	total:46241

@@ -1,0 +1,628 @@
+Jun 6, 2022, 3:06:33 PM	DBPedia	AdvancedType2	Cost Time is : 	391766 ms	5
+Jun 6, 2022, 3:06:33 PM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	298202 ms	5
+Jun 6, 2022, 8:21:42 PM	DBPedia	AdvancedType2	Cost Time is : 	398750 ms	7
+Jun 6, 2022, 8:21:42 PM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	321909 ms	7
+Jun 7, 2022, 1:27:54 AM	DBPedia	AdvancedType2	Cost Time is : 	398714 ms	9
+Jun 7, 2022, 1:27:54 AM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	300098 ms	9
+Jun 7, 2022, 6:34:40 AM	DBPedia	AdvancedType2	Cost Time is : 	396117 ms	11
+Jun 7, 2022, 6:34:40 AM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	303838 ms	11
+Jun 7, 2022, 11:45:04 AM	DBPedia	AdvancedType2	Cost Time is : 	404774 ms	13
+Jun 7, 2022, 11:45:04 AM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	303898 ms	13
+Jun 7, 2022, 5:10:26 PM	DBPedia	AdvancedType2	Cost Time is : 	423047 ms	15
+Jun 7, 2022, 5:10:26 PM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	320807 ms	15
+Jun 7, 2022, 5:10:26 PM	
+
+Jun 7, 2022, 11:58:09 PM	Sca: 1	DBPedia	AdvancedType2	2476ms	5
+Jun 7, 2022, 11:58:09 PM	Sca: 1	DBPedia	ImprovedAdvancedType2	2024ms	5
+Jun 8, 2022, 1:49:54 AM	Sca: 2	DBPedia	AdvancedType2	28009ms	5
+Jun 8, 2022, 1:49:54 AM	Sca: 2	DBPedia	ImprovedAdvancedType2	23202ms	5
+Jun 8, 2022, 11:15:09 AM	Sca: 3	DBPedia	AdvancedType2	95091ms	5
+Jun 8, 2022, 11:15:09 AM	Sca: 3	DBPedia	ImprovedAdvancedType2t	69926ms	5
+Jun 9, 2022, 9:24:39 PM	Sca: 4	DBPedia	AdvancedType2	214101ms	5
+Jun 9, 2022, 9:24:39 PM	Sca: 4	DBPedia	ImprovedAdvancedType2	169076ms	5
+Jun 9, 2022, 9:24:39 PM	
+
+Jun 10, 2022, 7:40:42 PM	Sca: 1	DBPedia	  BasicInfComm2Type 	 6777ms	5
+Jun 10, 2022, 9:03:11 PM	Sca: 2	DBPedia	  BasicInfComm2Type 	 184109ms	5
+Jun 11, 2022, 5:08:57 AM	Sca: 3	DBPedia	  BasicInfComm2Type 	 1149498ms	5
+Jun 12, 2022, 12:24:14 PM	Sca: 4	DBPedia	  BasicInfComm2Type 	 4481248ms	5
+Jun 12, 2022, 12:24:14 PM	
+
+Jun 18, 2022, 4:59:30 PM	
+
+Jun 22, 2022, 11:50:35 PM	
+
+Jun 23, 2022, 12:24:32 AM	
+
+Jun 24, 2022, 1:25:43 AM	DBLPWithWeight community diameter 0.00000	0.00000	
+Jun 24, 2022, 1:25:43 AM	
+
+Jun 24, 2022, 12:23:20 PM	DBLPWithWeight community diameter 0NaN	0NaN	
+Jun 24, 2022, 12:23:20 PM	
+
+Jun 24, 2022, 12:27:03 PM	DBLPWithWeight community diameter 4.00000	1.70588	
+Jun 24, 2022, 12:27:03 PM	
+
+
+
+Jun 25, 2022, 12:13:02 AM	tmdb community diameter 50.00000	15.70476
+ community path-sim 0.51641	3.50362
+ community density 1111.48112	2830.65865
+ community degree 1667.87795	3968.54001
+Jun 25, 2022, 12:13:02 AM	
+
+Jun 25, 2022, 3:42:35 AM	smallimdb community diameter 87.99394	7.65833
+ community path-sim 0.54057	2.30214
+ community density 2412.12618	8119.98927
+ community degree 2174.45807	6013.69080
+Jun 25, 2022, 3:42:35 AM	
+
+Jun 25, 2022, 9:39:08 AM	DBPedia community diameter 92.08333	25.00000
+ community path-sim 13.89490	21.16143
+ community density 59793.47452	48302.98342
+ community degree 117195.66333	92406.61477
+Jun 25, 2022, 9:39:08 AM	
+
+Jun 25, 2022, 10:06:01 AM	DBLPWithWeight community diameter 34.00000	5.97861
+ community path-sim 0.97765	1.74139
+ community density 2313.87924	4205.91868
+ community degree 4162.01813	6425.27570
+Jun 25, 2022, 10:06:01 AM	
+
+Jun 25, 2022, 7:41:56 PM	
+
+Jun 25, 2022, 8:13:00 PM	
+
+Jun 25, 2022, 8:59:26 PM	
+
+Jun 25, 2022, 10:57:26 PM	
+
+Jun 25, 2022, 11:04:39 PM	
+
+Jun 25, 2022, 11:10:51 PM	
+
+Jun 25, 2022, 11:16:55 PM	
+
+Jun 25, 2022, 11:24:53 PM	
+
+Jun 25, 2022, 11:32:16 PM	
+
+Jun 25, 2022, 11:42:57 PM	
+
+Jun 26, 2022, 6:58:27 AM	
+
+Jul 12, 2022, 7:02:20 PM	
+
+Jul 12, 2022, 7:08:08 PM	
+
+Jul 12, 2022, 7:08:26 PM	
+
+Jul 13, 2022, 3:25:58 AM	
+
+Jul 14, 2022, 2:30:03 AM	
+
+Jul 14, 2022, 3:51:20 AM	
+
+【Jul 14, 2022, 5:05:55 AM
+
+Jul 14, 2022, 5:13:45 AM	
+
+Jul 14, 2022, 5:15:43 AM	
+
+Jul 14, 2022, 5:25:25 AM	
+
+Jul 14, 2022, 5:26:51 AM	
+
+Jul 14, 2022, 6:54:59 AM	
+
+Sep 4, 2022, 10:08:43 PM	
+
+Sep 5, 2022, 11:58:25 AM	tmdb	ImprovedAdvancedType2	Cost Time is : 	1407 ms	5
+Sep 5, 2022, 11:58:25 AM	
+
+Sep 5, 2022, 10:49:29 PM	DBPedia	ImprovedAdvancedType2	Cost Time is : 	292119 ms	5
+Sep 5, 2022, 10:49:29 PM	
+
+Sep 6, 2022, 5:24:11 PM	tmdb The number of communities   64.00000
+The average number of nodes in communities 90.00000
+ The average number of nodes in k-core59958.00000
+The maximum number of nodes in communities 138.00000
+minimum number of nodes in communities 2147483719.00000
+
+Sep 6, 2022, 5:24:11 PM	
+
+Sep 6, 2022, 5:27:46 PM	tmdb The number of communities   5.00000
+The average number of nodes in communities 7.00000
+ The average number of nodes in k-core4996.00000
+The maximum number of nodes in communities 11.00000
+minimum number of nodes in communities 178956976.00000
+
+Sep 6, 2022, 5:27:46 PM	
+
+
+
+Sep 6, 2022, 5:33:56 PM	
+
+Sep 6, 2022, 7:48:08 PM	smallimdb The number of communities   12.00000
+The average number of nodes in communities 7.66667
+ The average number of nodes in k-core177040.83333
+The maximum number of nodes in communities 11.16667
+minimum number of nodes in communities 6.00000
+
+Sep 6, 2022, 7:48:08 PM	
+
+Sep 6, 2022, 10:24:54 PM	DBPedia The number of communities   4.76000
+The average number of nodes in communities 6.00000
+ The average number of nodes in k-core14887.40000
+The maximum number of nodes in communities 6.00000
+minimum number of nodes in communities 6.00000
+
+Sep 6, 2022, 10:24:54 PM	
+
+Sep 7, 2022, 10:02:52 AM	tmdb The number of communities   5.33333
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 10:02:52 AM	
+
+Sep 7, 2022, 11:44:30 AM	smallimdb The number of communities   12.00000
+The average number of nodes in communities 7.66667
+ The average number of nodes in k-core177040.83333
+The maximum number of nodes in communities 11.16667
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 11:44:30 AM	
+
+Sep 7, 2022, 3:04:40 PM	tmdb The number of communities   5.25000
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:04:40 PM	
+
+Sep 7, 2022, 3:05:52 PM	tmdb The number of communities   5.33333
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:05:52 PM	
+
+Sep 7, 2022, 3:07:05 PM	tmdb The number of communities   5.33333
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:07:05 PM	
+
+Sep 7, 2022, 3:08:05 PM	tmdb The number of communities   5.25000
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:08:05 PM	
+
+Sep 7, 2022, 3:39:55 PM	DBLPWithWeight The number of communities   10.60000
+The average number of nodes in communities 7.20000
+ The average number of nodes in k-core68046.60000
+The maximum number of nodes in communities 12.20000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:39:55 PM	
+
+Sep 7, 2022, 3:54:25 PM	DBLPWithWeight The number of communities   11.40000
+The average number of nodes in communities 7.20000
+ The average number of nodes in k-core68043.00000
+The maximum number of nodes in communities 12.20000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 3:54:25 PM	
+
+Sep 7, 2022, 4:31:14 PM	DBLPWithWeight The number of communities   11.40000
+The average number of nodes in communities 7.20000
+ The average number of nodes in k-core68043.00000
+The maximum number of nodes in communities 12.20000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 4:31:14 PM	
+
+Sep 7, 2022, 4:47:26 PM	DBLPWithWeight The number of communities   11.40000
+The average number of nodes in communities 7.20000
+ The average number of nodes in k-core68043.00000
+The maximum number of nodes in communities 12.20000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 4:47:26 PM	
+
+Sep 7, 2022, 6:40:06 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:40:06 PM	
+
+Sep 7, 2022, 6:46:32 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:46:32 PM	
+
+Sep 7, 2022, 6:52:22 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:52:22 PM	
+
+Sep 7, 2022, 6:53:56 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:53:56 PM	
+
+Sep 7, 2022, 6:55:00 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:55:00 PM	
+
+Sep 7, 2022, 6:56:28 PM	DBLPWithWeight The number of communities   9.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 6:56:28 PM	
+
+Sep 7, 2022, 8:31:25 PM	DBLPWithWeight The number of communities   10.00000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core53894.00000
+The maximum number of nodes in communities 22.00000
+minimum number of nodes in communities 6.00000
+
+Sep 7, 2022, 8:31:25 PM	
+
+Sep 7, 2022, 9:25:41 PM	
+
+Sep 7, 2022, 9:32:19 PM	
+
+Sep 7, 2022, 9:34:44 PM	
+
+Sep 7, 2022, 10:06:05 PM	
+
+Sep 7, 2022, 10:54:58 PM	
+
+Sep 8, 2022, 2:53:56 AM	smallimdb community diameter 14.66566	1.27639
+ community path-sim 0.09009	0.38369
+ community density 402.02103	1353.33154
+ community degree 362.40968	1002.28180
+Sep 8, 2022, 2:53:56 AM	
+
+Sep 8, 2022, 8:13:13 AM	DBPedia community diameter 4.08458	1.00000
+ community path-sim 0.50361	0.82614
+ community density 2511.80828	2624.05733
+ community degree 4928.77131	5064.91203
+Sep 8, 2022, 8:13:13 AM	
+
+Sep 12, 2022, 4:34:00 PM	tmdb	AdvancedType2	Cost Time is : 	1208 ms	5
+Sep 12, 2022, 4:34:00 PM	
+
+Sep 12, 2022, 4:48:32 PM	DBLPWithWeight	AdvancedType2	Cost Time is : 	159407 ms	5
+Sep 12, 2022, 4:48:32 PM	
+
+Sep 12, 2022, 5:57:10 PM	smallimdb	AdvancedType2	Cost Time is : 	669608 ms	5
+Sep 12, 2022, 5:57:10 PM	
+
+
+
+Sep 12, 2022, 10:47:26 PM	
+
+Sep 12, 2022, 10:48:43 PM	tmdb The number of communities   5.25000
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 12, 2022, 10:48:43 PM	
+
+Sep 12, 2022, 11:52:26 PM	smallimdb The number of communities   12.00000
+The average number of nodes in communities 7.66667
+ The average number of nodes in k-core177040.83333
+The maximum number of nodes in communities 11.16667
+minimum number of nodes in communities 6.00000
+
+Sep 12, 2022, 11:52:26 PM	
+
+Sep 13, 2022, 2:27:53 AM	DBPedia The number of communities   4.76000
+The average number of nodes in communities 6.00000
+ The average number of nodes in k-core14887.40000
+The maximum number of nodes in communities 6.00000
+minimum number of nodes in communities 6.00000
+
+Sep 13, 2022, 2:27:53 AM	
+
+
+
+Sep 24, 2022, 10:13:52 AM	
+
+Sep 24, 2022, 10:15:13 AM	tmdbQueryK: 5
+ The number of communities   5.25000
+The average number of nodes in communities 7.50000
+ The average number of nodes in k-core4996.50000
+The maximum number of nodes in communities 11.50000
+minimum number of nodes in communities 6.00000
+
+Sep 24, 2022, 10:15:13 AM	
+
+Sep 24, 2022, 11:27:51 AM	smallimdbQueryK: 5
+ The number of communities   12.00000
+The average number of nodes in communities 7.66667
+ The average number of nodes in k-core177040.83333
+The maximum number of nodes in communities 11.16667
+minimum number of nodes in communities 6.00000
+
+Sep 24, 2022, 11:27:51 AM	
+
+Sep 24, 2022, 2:01:03 PM	DBPediaQueryK: 5
+ The number of communities   4.76000
+The average number of nodes in communities 6.00000
+ The average number of nodes in k-core14887.40000
+The maximum number of nodes in communities 6.00000
+minimum number of nodes in communities 6.00000
+
+Sep 24, 2022, 2:01:03 PM	
+
+Sep 24, 2022, 2:14:01 PM	DBLPWithWeightQueryK: 5
+ The number of communities   7.00000
+The average number of nodes in communities 7.20000
+ The average number of nodes in k-core68105.80000
+The maximum number of nodes in communities 12.20000
+minimum number of nodes in communities 6.00000
+
+Sep 24, 2022, 2:14:01 PM	
+
+Sep 25, 2022, 10:41:19 AM	tmdbQueryK: 7
+ The number of communities   6.66667
+The average number of nodes in communities 11.41667
+ The average number of nodes in k-core4832.25000
+The maximum number of nodes in communities 20.75000
+minimum number of nodes in communities 8.08333
+
+Sep 25, 2022, 10:43:01 AM	tmdbQueryK: 9
+ The number of communities   7.36364
+The average number of nodes in communities 13.63636
+ The average number of nodes in k-core5039.81818
+The maximum number of nodes in communities 17.81818
+minimum number of nodes in communities 10.72727
+
+Sep 25, 2022, 10:48:36 AM	tmdbQueryK: 11
+ The number of communities   11.44444
+The average number of nodes in communities 18.77778
+ The average number of nodes in k-core5858.11111
+The maximum number of nodes in communities 26.44444
+minimum number of nodes in communities 12.00000
+
+Sep 25, 2022, 11:09:51 AM	tmdbQueryK: 13
+ The number of communities   12.33333
+The average number of nodes in communities 22.33333
+ The average number of nodes in k-core5543.11111
+The maximum number of nodes in communities 32.22222
+minimum number of nodes in communities 14.00000
+
+Sep 25, 2022, 11:55:41 AM	tmdbQueryK: 15
+ The number of communities   14.50000
+The average number of nodes in communities 27.87500
+ The average number of nodes in k-core5904.37500
+The maximum number of nodes in communities 39.62500
+minimum number of nodes in communities 16.00000
+
+Sep 25, 2022, 11:55:41 AM	
+
+Sep 25, 2022, 1:18:03 PM	smallimdbQueryK: 7
+ The number of communities   12.16667
+The average number of nodes in communities 10.83333
+ The average number of nodes in k-core168668.50000
+The maximum number of nodes in communities 14.66667
+minimum number of nodes in communities 9.16667
+
+Sep 25, 2022, 4:14:46 PM	smallimdbQueryK: 9
+ The number of communities   12.33333
+The average number of nodes in communities 13.16667
+ The average number of nodes in k-core165155.50000
+The maximum number of nodes in communities 17.16667
+minimum number of nodes in communities 11.50000
+
+Sep 25, 2022, 9:27:02 PM	smallimdbQueryK: 11
+ The number of communities   15.00000
+The average number of nodes in communities 14.40000
+ The average number of nodes in k-core191562.80000
+The maximum number of nodes in communities 18.80000
+minimum number of nodes in communities 12.20000
+
+Sep 26, 2022, 12:26:36 AM	smallimdbQueryK: 13
+ The number of communities   14.00000
+The average number of nodes in communities 16.40000
+ The average number of nodes in k-core188761.20000
+The maximum number of nodes in communities 19.60000
+minimum number of nodes in communities 14.00000
+499
+Sep 26, 2022, 2:54:02 AM	smallimdbQueryK: 15
+ The number of communities   14.40000
+The average number of nodes in communities 18.20000
+ The average number of nodes in k-core189046.00000
+The maximum number of nodes in communities 26.20000
+minimum number of nodes in communities 16.00000
+
+Sep 26, 2022, 2:54:02 AM	
+
+Sep 26, 2022, 5:33:23 AM	DBPediaQueryK: 7
+ The number of communities   4.76000
+The average number of nodes in communities 8.00000
+ The average number of nodes in k-core14937.08000
+The maximum number of nodes in communities 8.04000
+minimum number of nodes in communities 8.00000
+
+Sep 26, 2022, 8:10:36 AM	DBPediaQueryK: 9
+ The number of communities   4.72000
+The average number of nodes in communities 10.00000
+ The average number of nodes in k-core14921.84000
+The maximum number of nodes in communities 10.00000
+minimum number of nodes in communities 10.00000
+
+Sep 26, 2022, 10:50:57 AM	DBPediaQueryK: 11
+ The number of communities   4.72000
+The average number of nodes in communities 12.00000
+ The average number of nodes in k-core14823.52000
+The maximum number of nodes in communities 12.00000
+minimum number of nodes in communities 12.00000
+
+Sep 26, 2022, 1:32:52 PM	DBPediaQueryK: 13
+ The number of communities   4.76000
+The average number of nodes in communities 14.00000
+ The average number of nodes in k-core14620.72000
+The maximum number of nodes in communities 14.00000
+minimum number of nodes in communities 14.00000
+
+Sep 26, 2022, 4:16:45 PM	DBPediaQueryK: 15
+ The number of communities   4.72000
+The average number of nodes in communities 16.00000
+ The average number of nodes in k-core14830.24000
+The maximum number of nodes in communities 16.00000
+minimum number of nodes in communities 16.00000
+
+Sep 26, 2022, 4:16:45 PM	
+
+Sep 26, 2022, 4:31:59 PM	DBLPWithWeightQueryK: 7
+ The number of communities   9.00000
+The average number of nodes in communities 9.20000
+ The average number of nodes in k-core57892.00000
+The maximum number of nodes in communities 12.40000
+minimum number of nodes in communities 8.00000
+
+Sep 26, 2022, 4:58:59 PM	DBLPWithWeightQueryK: 9
+ The number of communities   10.60000
+The average number of nodes in communities 12.20000
+ The average number of nodes in k-core51915.00000
+The maximum number of nodes in communities 18.20000
+minimum number of nodes in communities 10.00000
+
+Sep 26, 2022, 6:59:32 PM	DBLPWithWeightQueryK: 11
+ The number of communities   11.00000
+The average number of nodes in communities 16.60000
+ The average number of nodes in k-core47579.20000
+The maximum number of nodes in communities 27.20000
+minimum number of nodes in communities 12.00000
+
+Sep 27, 2022, 12:07:03 AM	DBLPWithWeightQueryK: 13
+ The number of communities   9.80000
+The average number of nodes in communities 20.40000
+ The average number of nodes in k-core44497.20000
+The maximum number of nodes in communities 38.80000
+minimum number of nodes in communities 15.20000
+
+Sep 27, 2022, 7:30:33 AM	DBLPWithWeightQueryK: 15
+ The number of communities   8.80000
+The average number of nodes in communities 21.40000
+ The average number of nodes in k-core41946.40000
+The maximum number of nodes in communities 29.00000
+minimum number of nodes in communities 17.60000
+
+Sep 27, 2022, 7:30:33 AM	
+
+Jan 1, 2023, 9:02:39 PM	tmdb	BasicPlusComm2Type	Cost Time is : 	0 ms	5
+Jan 1, 2023, 9:02:39 PM	tmdb	AdvancedType2	Cost Time is : 	1225 ms	5
+Jan 1, 2023, 9:02:39 PM	
+
+Jan 1, 2023, 10:48:29 PM	DBLPWithWeight community diameter 0NaN	0NaN
+ community path-sim 0NaN	0NaN
+ community density 0NaN	0NaN
+ community degree 0NaN	0NaN
+Jan 1, 2023, 10:48:29 PM	
+
+Jan 2, 2023, 10:58:15 PM	tmdb	BasicPlusComm2Type	Cost Time is : 	0 ms	5
+Jan 2, 2023, 10:58:15 PM	tmdb	AdvancedType2	Cost Time is : 	1191 ms	5
+Jan 2, 2023, 10:58:15 PM	
+
+Jan 3, 2023, 1:30:13 PM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	0 ms	5
+Jan 3, 2023, 1:30:13 PM	DBLPWithWeight	AdvancedType2	Cost Time is : 	156760 ms	5
+Jan 3, 2023, 1:30:13 PM	
+
+Jan 3, 2023, 4:08:22 PM	tmdb	BasicPlusComm2Type	Cost Time is : 	155081 ms	5
+Jan 3, 2023, 4:08:22 PM	tmdb	AdvancedType2	Cost Time is : 	1229 ms	5
+Jan 3, 2023, 4:08:22 PM	
+
+Jan 4, 2023, 6:47:07 AM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	10366341 ms	5
+Jan 4, 2023, 6:47:07 AM	DBLPWithWeight	AdvancedType2	Cost Time is : 	152178 ms	5
+Jan 4, 2023, 6:47:07 AM	
+
+Jan 13, 2023, 2:36:03 AM	tmdb	BasicPlusComm2Type	Cost Time is : 	357133 ms	7
+Jan 13, 2023, 4:28:31 AM	tmdb	BasicPlusComm2Type	Cost Time is : 	603107 ms	9
+Jan 13, 2023, 7:10:08 AM	tmdb	BasicPlusComm2Type	Cost Time is : 	1066865 ms	11
+Jan 13, 2023, 10:21:37 AM	tmdb	BasicPlusComm2Type	Cost Time is : 	1266018 ms	13
+Jan 13, 2023, 2:31:03 PM	tmdb	BasicPlusComm2Type	Cost Time is : 	1860105 ms	15
+Jan 13, 2023, 2:31:03 PM	
+
+Jan 14, 2023, 11:27:37 AM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	15064496 ms	7
+Jan 15, 2023, 6:55:10 AM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	13996934 ms	9
+Jan 15, 2023, 1:44:00 PM	Sca: 1	tmdb	  BasicHalf_Plus_Comm2Type 	 137ms	5
+Jan 15, 2023, 1:46:16 PM	Sca: 2	tmdb	  BasicHalf_Plus_Comm2Type 	 1730ms	5
+Jan 15, 2023, 1:52:59 PM	Sca: 3	tmdb	  BasicHalf_Plus_Comm2Type 	 31271ms	5
+Jan 15, 2023, 2:02:30 PM	Sca: 4	tmdb	  BasicHalf_Plus_Comm2Type 	 37399ms	5
+Jan 15, 2023, 2:02:30 PM	
+
+Jan 15, 2023, 10:08:34 PM	Sca: 1	DBLPWithWeight	  BasicHalf_Plus_Comm2Type 	 7000ms	5
+Jan 15, 2023, 10:19:56 PM	Sca: 2	DBLPWithWeight	  BasicHalf_Plus_Comm2Type 	 123484ms	5
+Jan 15, 2023, 11:44:08 PM	Sca: 3	DBLPWithWeight	  BasicHalf_Plus_Comm2Type 	 996973ms	5
+Jan 16, 2023, 1:09:39 AM	Sca: 1	DBPedia	  BasicHalf_Plus_Comm2Type 	 12317ms	5
+Jan 16, 2023, 4:04:02 AM	Sca: 2	DBPedia	  BasicHalf_Plus_Comm2Type 	 402366ms	5
+Jan 16, 2023, 7:57:51 PM	Sca: 3	DBPedia	  BasicHalf_Plus_Comm2Type 	 2269188ms	5
+Jan 18, 2023, 7:21:29 AM	Sca: 4	DBPedia	  BasicHalf_Plus_Comm2Type 	 5072830ms	5
+Jan 18, 2023, 7:21:29 AM	
+
+Jan 19, 2023, 9:17:23 AM	Sca: 4	DBLPWithWeight	  BasicHalf_Plus_Comm2Type 	 11259132ms	5
+Jan 19, 2023, 9:17:23 AM	
+
+// 1. IMDB 2,4,6 okay
+// 2. DBPedia varying k
+// 3. Basic4D
+// 4. DBLP h=2, varying 11, 13, 15
+Jan 19, 2023, 12:15:12 PM	Sca: 1	smallimdb	  BasicHalf_Plus_Comm2Type 	 72393ms	5
+Jan 20, 2023, 4:25:54 AM	Sca: 2	smallimdb	  BasicHalf_Plus_Comm2Type 	 9694801ms	5
+Jan 23, 2023, 9:36:57 AM	Sca: 3	smallimdb	  BasicHalf_Plus_Comm2Type 	 46296753ms	5
+Jan 23, 2023, 9:36:57 AM	
+
+Feb 4, 2023, 2:56:38 PM	DBPedia	BasicPlusComm2Type	Cost Time is : 	14417411 ms	5
+Feb 5, 2023, 7:53:03 PM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	14875630 ms	11
+Feb 6, 2023, 3:37:31 PM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	14199845 ms	13
+Feb 7, 2023, 12:21:31 PM	DBLPWithWeight	BasicPlusComm2Type	Cost Time is : 	14913989 ms	15
+Feb 7, 2023, 12:21:31 PM	
+
+Mar 20, 2023, 11:19:52 AM	tmdb community diameter 0NaN	0NaN
+ community path-sim 0NaN	0NaN
+ community density 0NaN	0NaN
+ community degree 0NaN	0NaN
+Mar 20, 2023, 11:19:52 AM	
+
+Mar 20, 2023, 11:29:17 AM	tmdb community diameter 0NaN	0NaN
+ community path-sim 0NaN	0NaN
+ community density 0NaN	0NaN
+ community degree 0NaN	0NaN
+Mar 20, 2023, 11:29:17 AM	
+
+Mar 20, 2023, 3:18:04 PM	
+
+Mar 20, 2023, 3:19:46 PM	
+

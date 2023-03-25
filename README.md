@@ -40,36 +40,10 @@ where * means java file name (as well as class name)
 
 ### B. Run Code in the IntelliJ IDEA
 
-> You can directly run the code in the IDEA, you need to specify the meta-path and  dataset:
+> You can modify the `exp/runTest.java` to specify the meta-path, dataset and queryK. Next, you can directly run this code in your IDEA
 >
-> For DBLP, you can specify the metapath: 1-1-0-0-1 (Author-Paper-Author) and queryK = 5. Then you can directly run this code in your IDEA.
+> For TMDB, you can specify the metapath: 0-6-4-7-0 (Movie-Director-Movie), queryK = 5 and method="Fast2D". Then you can directly run this code in your IDEA.
 
-```java
-String metaPath_str = "1-1-0-0-1";
-MetaPath metaPath = new MetaPath(metaPath_str);
-DataReader dataReader = new DataReader(Config.dblpGraph, Config.dblpVertex, Config.dblpEdge, Config.dblpWeight);
-
-Advanced2Type InfCommunities = new Advanced2Type(graph, vertexType, edgeType, weight, 5, metaPath);
-Map<double[], Set<Integer>> Communities = InfCommunities.computeComm("");
-```
-
-The correspondence between the class name and the algorithm name is as follows：
-
-+ `basic/InfComm2Type.java`: Basic2D
-+ `advanced/Advanced2Type.java`: Fast2D
-+ `advanced/Basic2Plus.java`: BasicHalf2D
-+ `basic/InfComm3Type.java`: Basic3D
-+ `advanced/Advanced3Type.java`: Fast3D
-+ `advanced/BasicHType.java`: Basic4D
-+ `advanced/AdvancedHType.java`: Fast4D
-
-Before you run the code, you also need to specify the `JVM` options:
-
-`-Djava.util.Arrays.useLegacyMergeSort=true -Xmx220000m -Xmx220000m`
-
-**Running Example:**
-
-You can modify the `exp/runTest.java` to specify the meta-path, dataset and queryK. Next, you can directly run this code in your IDEA
 
 ```java
 // You need to specify some parameters:
@@ -98,6 +72,20 @@ You will obtain the following results:
 [73.987775, 3.170405984]    [256, 1605, 200, 9, 14, 183]
 [94.815867, 2.389717088]    [898, 195, 612, 249, 1337, 172]
 ```
+
+The correspondence between the class name and the algorithm name is as follows：
+
++ `basic/InfComm2Type.java`: Basic2D
++ `advanced/Advanced2Type.java`: Fast2D
++ `advanced/Basic2Plus.java`: BasicHalf2D
++ `basic/InfComm3Type.java`: Basic3D
++ `advanced/Advanced3Type.java`: Fast3D
++ `advanced/BasicHType.java`: Basic4D
++ `advanced/AdvancedHType.java`: Fast4D
+
+Before you run the code, you also need to specify the `JVM` options:
+
+`-Djava.util.Arrays.useLegacyMergeSort=true -Xmx220000m -Xmx220000m`
 
 ### C. Data Download
 

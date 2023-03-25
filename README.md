@@ -116,7 +116,6 @@ You can directly run the `src/exp/expTest.java` to reproduce all the experiments
 // 3. runMember: reproduce the whole size and number experiments
 // 4. runAvgInfluence: reproduce the average influence experiments
 // 5. runCaseStudy: reproduce the case-study experiment
-```
 for (String dataSetName : dataSetList) {
     String graphDataSetPath = Config.root + "/" + dataSetName;
     String metaPathsPath = Config.root + "/" + dataSetName;
@@ -133,6 +132,7 @@ for (String dataSetName : dataSetList) {
         vdTest.runCaseStudy(graphDataSetPath, metaPathsPath, dataSetName);
     }
 }
+```
 #### Effectiveness evaluation
 
 - effectiveness of h=2: `effectivenessComm2`

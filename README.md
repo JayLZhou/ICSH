@@ -46,11 +46,11 @@ where * means java file name (as well as class name)
 
 ```java
 String metaPath_str = "1-1-0-0-1";
-        MetaPath metaPath = new MetaPath(metaPath_str);
-        DataReader dataReader = new DataReader(Config.dblpGraph, Config.dblpVertex, Config.dblpEdge, Config.dblpWeight);
+MetaPath metaPath = new MetaPath(metaPath_str);
+DataReader dataReader = new DataReader(Config.dblpGraph, Config.dblpVertex, Config.dblpEdge, Config.dblpWeight);
 
-        Advanced2Type InfCommunities = new Advanced2Type(graph, vertexType, edgeType, weight, 5, metaPath);
-        Map<double[], Set<Integer>> Communities = InfCommunities.computeComm("");
+Advanced2Type InfCommunities = new Advanced2Type(graph, vertexType, edgeType, weight, 5, metaPath);
+Map<double[], Set<Integer>> Communities = InfCommunities.computeComm("");
 ```
 
 The correspondence between the class name and the algorithm name is as follows：
@@ -78,13 +78,13 @@ You can modify the `exp/runTest.java` to specify the meta-path, dataset and quer
 // Meta-Path: e.g.,Movie-Director-Movie
 // Method: Fast2D
 int queryK  = 5;
-        String metaPath_str = "0-6-4-7-0";
-        MetaPath metaPath = new MetaPath(metaPath_str);
-        String dataSetName = "tmdb";
-        String method = "Fast2D";
-        String graphDataSetPath = Config.root + "/" + dataSetName;
-        runTest vdTest = new runTest(graphDataSetPath, metaPath, dataSetName);
-        vdTest.test(queryK, method);
+String metaPath_str = "0-6-4-7-0";
+MetaPath metaPath = new MetaPath(metaPath_str);
+String dataSetName = "tmdb";
+String method = "Fast2D";
+String graphDataSetPath = Config.root + "/" + dataSetName;
+runTest vdTest = new runTest(graphDataSetPath, metaPath, dataSetName);
+vdTest.test(queryK, method);
 ```
 
 You will obtain the following results:
@@ -93,10 +93,10 @@ You will obtain the following results:
 
 ```java
 [66.976776, 10.548214267]    [1818, 1697, 2085, 190, 1006, 119]
-        [67.66094, 6.234602552]    [0, 279, 25, 93, 2403, 3439]
-        [68.889395, 4.210555314]    [270, 274, 3158, 220, 157, 1725]
-        [73.987775, 3.170405984]    [256, 1605, 200, 9, 14, 183]
-        [94.815867, 2.389717088]    [898, 195, 612, 249, 1337, 172]
+[67.66094, 6.234602552]    [0, 279, 25, 93, 2403, 3439]
+[68.889395, 4.210555314]    [270, 274, 3158, 220, 157, 1725]
+[73.987775, 3.170405984]    [256, 1605, 200, 9, 14, 183]
+[94.815867, 2.389717088]    [898, 195, 612, 249, 1337, 172]
 ```
 
 ### C. Data Download
@@ -108,7 +108,31 @@ https://drive.google.com/file/d/1ITK0qxARVgJGrpawvIv_66Af-CfYEEPN/view?usp=share
 ### D. Experimentation
 
 The file path mentioned in the following is started with `ICSH/src/exp`
+#### Reproduce all results
+You can directly run the `src/exp/expTest.java` to reproduce all the experiments
+```java
+// 1. runEfficiency: reproduce the whole efficiency experiments
+// 2. runEffectiveness: reproduce the whole effectiveness experiments (i.e., diameter, path-sim, etc.)
+// 3. runMember: reproduce the whole size and number experiments
+// 4. runAvgInfluence: reproduce the average influence experiments
+// 5. runCaseStudy: reproduce the case-study experiment
+```
+for (String dataSetName : dataSetList) {
+    String graphDataSetPath = Config.root + "/" + dataSetName;
+    String metaPathsPath = Config.root + "/" + dataSetName;
+    expTest vdTest = new expTest(graphDataSetPath, metaPathsPath, dataSetName);
+    vdTest.runEfficiency(graphDataSetPath, metaPathsPath, dataSetName, kArry);
 
+    vdTest.runEffectivenss(graphDataSetPath, metaPathsPath, dataSetName, 5); // 5 is the default queryK.
+    vdTest.runMember(graphDataSetPath, metaPathsPath, dataSetName, kArry);
+    if (dataSetName.equals("tmdb") || dataSetName.equals("DBLPWithWeight")) {
+        vdTest.runAvgInfluence(graphDataSetPath, metaPathsPath, dataSetName, 5); // Only for TMDB (MDM and GMDMG) and DBLP (APA and TPVPT)
+    }
+    // CaseStudy only for the DBLP (APA)
+    if (dataSetName.equals("DBLPWithWeight")) {
+        vdTest.runCaseStudy(graphDataSetPath, metaPathsPath, dataSetName);
+    }
+}
 #### Effectiveness evaluation
 
 - effectiveness of h=2: `effectivenessComm2`

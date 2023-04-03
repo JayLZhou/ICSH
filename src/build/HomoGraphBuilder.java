@@ -27,6 +27,7 @@ public class HomoGraphBuilder {
 		} else if (queryMPath.edge.length == 4) {
 			int cnt = 0;
 			for (int startId : keepSet) {
+				cnt += 1
 				affVertexFinder.collect3Type(startId, keepSet, cnt == keepSet.size());
 			}
 		}

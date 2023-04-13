@@ -114,7 +114,7 @@ public class Get2Of3 {
             }
         }
         tmpMap.clear();
-        double last_f2 = 0.0;
+        double last_f2 = -1;
         int len = conditionInf.size();
         for (int i = len - 1; i >= 0; i--) {
             // early stop

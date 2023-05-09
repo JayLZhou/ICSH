@@ -217,6 +217,11 @@ public class BatchSearch {
                     int nbVertexID = nb[i], nbEdgeID = nb[i + 1];
                     if (targetVType == vertexType[nbVertexID] && targetEType == edgeType[nbEdgeID]) {
                         if (layer < queryMPath.pathLen - 1) {
+                             if (layer == 1) {
+                                type3.add(nbVertexID);
+                            } else {
+                                type2.add(nbVertexID);
+                            }
                             nextAnchorSet.add(nbVertexID);
                         } else {
                             if (keepSet.contains(nbVertexID)) nextAnchorSet.add(nbVertexID);//impose restriction

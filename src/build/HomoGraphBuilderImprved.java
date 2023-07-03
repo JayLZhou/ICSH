@@ -82,7 +82,6 @@ public class HomoGraphBuilderImprved {
 		if (queryMPath.edge.length == 2) {
 			for (int startId : keepSet) {
 				cnt++;
-				System.out.println("进度条 is : " + cnt + "|" + keepSet.size());
 				affVertexFinder.collect2TypeNonSort(startId, keepSet, cnt == keepSet.size());
 			}
 		}

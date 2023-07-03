@@ -370,9 +370,9 @@ public class InfComm3Type implements Comm3Type {
         }
 
         long endTime = System.currentTimeMillis();
-        System.out.println("总结果个数为 🎉 cnt : " + cnt);
+        System.out.println("The result cnt is : " + cnt);
 
-        System.out.println("程序运行时间：" + (endTime - startTime) + "ms");
+        System.out.println("The total running time：" + (endTime - startTime) + "ms");
     }
 
     private static boolean checkDomain(List<double[]> cornerBound, double type2Value, double type3Value) {

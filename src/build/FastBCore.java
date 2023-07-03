@@ -159,7 +159,6 @@ public class FastBCore {
             conSet.add(newSet);
             keepSet.removeAll(newSet);
             cnt += 1;
-            System.out.println("进度条 is : " + cnt + "|" + keepSet.size());
         }
 
         //step 5: find the connected community
